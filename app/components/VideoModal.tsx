@@ -47,6 +47,10 @@ function AuthorReply({ reply }: { reply: CommentItem }) {
 }
 
 function InteractionCard({ thread }: { thread: InteractionThread }) {
+  const [expanded, setExpanded] = useState(false);
+  const replies: Array<CommentItem & { is_author?: boolean }> = thread.replies?.length
+    ? thread.replies
+    : thread.author_replies.map((reply) => ({ ...reply, is_author: true }));
   return (
     <article className="interaction-thread">
       <div className="comment-row">
@@ -54,6 +58,7 @@ function InteractionCard({ thread }: { thread: InteractionThread }) {
         <div className="comment-content">
           <div className="comment-heading">
             <strong>{thread.parent.user.nickname}</strong>
+            {thread.author_commented && <span className="author-badge">作者评论</span>}
             {thread.author_liked && <span className="liked-badge">作者赞过</span>}
           </div>
           <p>{thread.parent.text}</p>
@@ -61,12 +66,30 @@ function InteractionCard({ thread }: { thread: InteractionThread }) {
         </div>
       </div>
 
-      {thread.author_replies.map((reply) => (
-        <AuthorReply reply={reply} key={reply.comment_id} />
-      ))}
+      {replies.length > 0 && (
+        <button className="expand-replies" type="button" onClick={() => setExpanded((value) => !value)} aria-expanded={expanded}>
+          <span>{expanded ? "收起回复" : `展开 ${replies.length} 条回复`}</span>
+          <span className={expanded ? "chevron expanded" : "chevron"}>⌄</span>
+        </button>
+      )}
 
-      {thread.parent.reply_total > 0 && (
-        <span className="reply-total">共 {thread.parent.reply_total} 条回复</span>
+      {expanded && (
+        <div className="reply-list">
+          {replies.map((reply) => (
+            reply.is_author ? (
+              <AuthorReply reply={reply} key={reply.comment_id} />
+            ) : (
+              <div className="regular-reply" key={reply.comment_id}>
+                <Avatar comment={reply} />
+                <div className="comment-content">
+                  <div className="comment-heading"><strong>{reply.user.nickname}</strong></div>
+                  <p>{reply.text}</p>
+                  <CommentMeta comment={reply} />
+                </div>
+              </div>
+            )
+          ))}
+        </div>
       )}
     </article>
   );
@@ -145,7 +168,11 @@ function TranscriptPanel({ video }: { video: VideoItem }) {
     return <StatusPanel label="转录失败" title="这条视频暂时没有生成文字" detail={video.transcript_error || "可稍后重新处理。"} />;
   }
 
-  return <StatusPanel label="暂未处理" title="当前仅转录前 5 条视频" detail="这条视频会在后续批次中生成文字内容。" />;
+  if (video.transcript_status === "pending" || video.transcript_status === "processing") {
+    return <StatusPanel label="转录中" title="正在生成视频文字" detail="转录完成后会自动更新到看板。" />;
+  }
+
+  return <StatusPanel label="暂无转录" title="这条历史视频没有转录内容" detail="新视频会在发现后自动进入转录流程。" />;
 }
 
 function CommentsPanel({ video }: { video: VideoItem }) {
@@ -184,7 +211,7 @@ function CommentsPanel({ video }: { video: VideoItem }) {
     return <StatusPanel label="读取失败" title="评论内容暂时不可用" detail="可以稍后重新抓取这条视频。" />;
   }
 
-  return <StatusPanel label="暂未处理" title="当前仅深度读取前 5 条视频" detail="其余视频仍保留原有的首屏博主互动检测。" />;
+  return <StatusPanel label="暂无快照" title="这条历史视频没有前 20 条评论快照" detail="新视频会在 48 小时周期内持续更新评论。" />;
 }
 
 function StatusPanel({ label, title, detail }: { label: string; title: string; detail: string }) {
@@ -215,7 +242,7 @@ export function VideoModal({ video, onClose }: Props) {
       <section className="video-modal" role="dialog" aria-modal="true" aria-label="视频详情" onMouseDown={(event) => event.stopPropagation()}>
         <header className="modal-header">
           <div>
-            <span className="modal-kicker">视频 #{String(video.order).padStart(2, "0")}</span>
+            <span className="modal-kicker">视频 #{String(video.order).padStart(2, "0")}{video.is_deleted ? " · 已删除" : ""}</span>
             <h2>{video.description}</h2>
             <p>{video.published_at} · 赞 {formatCount(video.like_count)} · 评 {formatCount(video.comment_count)}</p>
           </div>

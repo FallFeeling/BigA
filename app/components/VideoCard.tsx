@@ -1,3 +1,6 @@
+"use client";
+
+import { useState } from "react";
 import { formatCount, formatDuration, shortDate } from "../format";
 import type { VideoItem } from "../types";
 
@@ -8,11 +11,24 @@ type Props = {
 
 export function VideoCard({ video, onOpen }: Props) {
   const duration = formatDuration(video.duration_ms);
+  const [coverFailed, setCoverFailed] = useState(false);
+  const showPlaceholder = Boolean(video.is_deleted || coverFailed || !video.cover);
 
   return (
-    <button className="video-card" type="button" onClick={() => onOpen(video)}>
+    <button className={video.is_deleted ? "video-card deleted" : "video-card"} type="button" onClick={() => onOpen(video)}>
       <span className="cover-wrap">
-        <img className="video-cover" src={video.cover} alt="" loading="lazy" referrerPolicy="no-referrer" />
+        {showPlaceholder ? (
+          <span className="deleted-cover">{video.is_deleted ? "已删除" : "封面不可用"}</span>
+        ) : (
+          <img
+            className="video-cover"
+            src={video.cover}
+            alt=""
+            loading="lazy"
+            referrerPolicy="no-referrer"
+            onError={() => setCoverFailed(true)}
+          />
+        )}
         <span className="cover-gradient" />
         <span className="video-rank">{String(video.order).padStart(2, "0")}</span>
         {duration && <span className="video-duration">{duration}</span>}
@@ -24,13 +40,6 @@ export function VideoCard({ video, onOpen }: Props) {
       </span>
 
       <span className="card-body">
-        <span className="video-copy">{video.description}</span>
-        {(video.transcript_status === "complete" || video.comments_status === "complete") && (
-          <span className="content-flags">
-            {video.transcript_status === "complete" && <span>已转录</span>}
-            {video.comments_status === "complete" && <span>20 条评论</span>}
-          </span>
-        )}
         <span className="video-meta">
           <span>{shortDate(video.published_at)}</span>
           <span className="meta-separator" />

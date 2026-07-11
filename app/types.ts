@@ -40,7 +40,12 @@ export type Transcript = {
 export type InteractionThread = {
   parent: CommentItem;
   author_liked: boolean;
+  author_commented?: boolean;
   author_replies: CommentItem[];
+  replies?: Array<CommentItem & { is_author?: boolean }>;
+  first_seen_at?: string;
+  last_seen_at?: string;
+  tracking_status?: "active" | "frozen";
 };
 
 export type VideoItem = {
@@ -54,10 +59,14 @@ export type VideoItem = {
   like_count: number;
   comment_count: number;
   duration_ms: number;
+  monitor_status?: "active" | "completed" | "deleted" | "archived";
+  monitor_ends_at?: string;
+  is_deleted?: boolean;
+  deleted_at?: string;
   interaction_threads: InteractionThread[];
   has_author_interaction: boolean;
   scanned_top_comment_count: number;
-  transcript_status?: "complete" | "not_processed" | "error";
+  transcript_status?: "complete" | "not_processed" | "pending" | "processing" | "error";
   transcript?: Transcript;
   transcript_error?: string;
   comments_status?: "complete" | "not_processed" | "error";

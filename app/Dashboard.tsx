@@ -46,7 +46,7 @@ export function Dashboard() {
         <div className="brand-block">
           <span className="eyebrow">DOUYIN ARCHIVE · MRMODEL</span>
           <h1>模型先生<span>视频互动看板</span></h1>
-          <p>最近 30 条视频 · 热度排序首屏互动检测</p>
+          <p>视频永久存档 · 新视频 48 小时互动监控</p>
         </div>
 
         <div className="summary-strip">
@@ -74,8 +74,8 @@ export function Dashboard() {
       </section>
 
       <footer className="dashboard-footer">
-        <span>初版数据范围</span>
-        <p>{data.scan_note} 卡片中的“博主互动”表示当前扫描范围内已明确检测到。</p>
+        <span>监控范围</span>
+        <p>{data.scan_note}</p>
       </footer>
 
       {selectedVideo && <VideoModal video={selectedVideo} onClose={closeModal} />}
