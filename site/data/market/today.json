@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-13T15:08:23+08:00",
-  "market_updated_at": "2026-07-13T15:08:21+08:00",
+  "generated_at": "2026-07-13T15:31:42+08:00",
+  "market_updated_at": "2026-07-13T15:31:36+08:00",
   "market_status": "已收盘",
-  "source": "东方财富公开行情",
-  "source_url": "https://quote.eastmoney.com/center/",
+  "source": "腾讯公开行情",
+  "source_url": "https://gu.qq.com/",
   "notice": "公开行情可能存在延迟，仅供信息展示，不构成投资建议。",
   "indexes": [
     {
@@ -18,7 +18,7 @@
       "low": 3900.67,
       "open": 3966.02,
       "prev_close": 3996.16,
-      "quote_url": "https://quote.eastmoney.com/zs000001.html"
+      "quote_url": "https://gu.qq.com/sh000001"
     },
     {
       "secid": "0.399001",
@@ -32,7 +32,7 @@
       "low": 14437.07,
       "open": 14908.98,
       "prev_close": 15046.67,
-      "quote_url": "https://quote.eastmoney.com/zs399001.html"
+      "quote_url": "https://gu.qq.com/sz399001"
     },
     {
       "secid": "0.399006",
@@ -46,7 +46,7 @@
       "low": 3691.23,
       "open": 3809.86,
       "prev_close": 3842.73,
-      "quote_url": "https://quote.eastmoney.com/zs399006.html"
+      "quote_url": "https://gu.qq.com/sz399006"
     },
     {
       "secid": "1.000688",
@@ -60,7 +60,7 @@
       "low": 1974.05,
       "open": 2038.36,
       "prev_close": 2064.98,
-      "quote_url": "https://quote.eastmoney.com/zs000688.html"
+      "quote_url": "https://gu.qq.com/sh000688"
     },
     {
       "secid": "1.000300",
@@ -74,7 +74,7 @@
       "low": 4670.25,
       "open": 4745.44,
       "prev_close": 4780.79,
-      "quote_url": "https://quote.eastmoney.com/zs000300.html"
+      "quote_url": "https://gu.qq.com/sh000300"
     },
     {
       "secid": "1.000905",
@@ -88,7 +88,7 @@
       "low": 8106.27,
       "open": 8409.14,
       "prev_close": 8503.97,
-      "quote_url": "https://quote.eastmoney.com/zs000905.html"
+      "quote_url": "https://gu.qq.com/sh000905"
     },
     {
       "secid": "0.899050",
@@ -102,7 +102,7 @@
       "low": 1127.22,
       "open": 1199.39,
       "prev_close": 1209.15,
-      "quote_url": "https://quote.eastmoney.com/zs899050.html"
+      "quote_url": "https://gu.qq.com/bj899050"
     }
   ]
 }
