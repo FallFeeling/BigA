@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T00:49:09",
+  "generated_at": "2026-07-14T03:34:20",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 33,
-    "total_likes": 482229,
-    "total_comments": 101320,
-    "active_monitors": 3,
+    "total_likes": 482752,
+    "total_comments": 101374,
+    "active_monitors": 2,
     "interaction_video_count": 9,
     "interaction_rate": 27.3,
     "author_reply_count": 15,
@@ -18,28 +18,28 @@
       "description": "该视频未填写文案",
       "published_at": "2026-07-13 21:01:59",
       "published_timestamp": 1783947719,
-      "like_count": 5788,
-      "comment_count": 2223,
+      "like_count": 5983,
+      "comment_count": 2263,
       "has_author_interaction": false,
-      "engagement_share": 23.5
+      "engagement_share": 24.1
     },
     {
       "video_id": "7661906480098216049",
       "description": "该视频未填写文案",
       "published_at": "2026-07-13 15:10:18",
       "published_timestamp": 1783926618,
-      "like_count": 12428,
-      "comment_count": 3181,
+      "like_count": 12645,
+      "comment_count": 3199,
       "has_author_interaction": true,
-      "engagement_share": 45.8
+      "engagement_share": 46.4
     },
     {
       "video_id": "7661468847606672458",
       "description": "该视频未填写文案",
       "published_at": "2026-07-12 10:52:04",
       "published_timestamp": 1783824724,
-      "like_count": 29992,
-      "comment_count": 4067,
+      "like_count": 30103,
+      "comment_count": 4063,
       "has_author_interaction": true,
       "engagement_share": 100.0
     },
@@ -51,7 +51,7 @@
       "like_count": 3640,
       "comment_count": 708,
       "has_author_interaction": true,
-      "engagement_share": 12.8
+      "engagement_share": 12.7
     },
     {
       "video_id": "7661092248272444273",
@@ -61,7 +61,7 @@
       "like_count": 6937,
       "comment_count": 1679,
       "has_author_interaction": false,
-      "engagement_share": 25.3
+      "engagement_share": 25.2
     },
     {
       "video_id": "7661035253272059057",
@@ -71,7 +71,7 @@
       "like_count": 10906,
       "comment_count": 2758,
       "has_author_interaction": false,
-      "engagement_share": 40.1
+      "engagement_share": 40.0
     },
     {
       "video_id": "7660831986836327865",
@@ -81,7 +81,7 @@
       "like_count": 10682,
       "comment_count": 2512,
       "has_author_interaction": false,
-      "engagement_share": 38.7
+      "engagement_share": 38.6
     },
     {
       "video_id": "7660684518856710577",
@@ -91,7 +91,7 @@
       "like_count": 16531,
       "comment_count": 4873,
       "has_author_interaction": false,
-      "engagement_share": 62.8
+      "engagement_share": 62.6
     }
   ],
   "modules": [
