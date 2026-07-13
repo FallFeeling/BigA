@@ -18,39 +18,18 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: dashboard
     steps:
       - name: Checkout
         uses: actions/checkout@v5
-
-      - name: Setup Node
-        uses: actions/setup-node@v5
-        with:
-          node-version: 24
-          cache: npm
-          cache-dependency-path: dashboard/package-lock.json
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Build static site
-        run: npm run build
-        env:
-          PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
-
-      - name: Disable Jekyll processing
-        run: touch out/.nojekyll
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: ./dashboard/out
+          path: ./site
 
   deploy:
     environment:

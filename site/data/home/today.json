@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-07-13T13:13:34",
+  "source": "模型先生公开视频快照",
+  "metrics": {
+    "video_count": 31,
+    "total_likes": 462884,
+    "total_comments": 95603,
+    "active_monitors": 1,
+    "interaction_video_count": 8,
+    "interaction_rate": 25.8,
+    "author_reply_count": 14,
+    "transcribed_video_count": 6,
+    "comment_enriched_video_count": 6
+  },
+  "recent_videos": [
+    {
+      "video_id": "7661468847606672458",
+      "description": "该视频未填写文案",
+      "published_at": "2026-07-12 10:52:04",
+      "published_timestamp": 1783824724,
+      "like_count": 28863,
+      "comment_count": 3754,
+      "has_author_interaction": true,
+      "engagement_share": 100.0
+    },
+    {
+      "video_id": "7661149563777223611",
+      "description": "商业航天地面端核心股票 · 易中天三支股指的是哪三支 · 铖昌科技",
+      "published_at": "2026-07-11 14:13:04",
+      "published_timestamp": 1783750384,
+      "like_count": 3640,
+      "comment_count": 708,
+      "has_author_interaction": true,
+      "engagement_share": 13.3
+    },
+    {
+      "video_id": "7661092248272444273",
+      "description": "商业航天尾盘跳水原因 · 模型先生商业航天 · 国产算力龙头股",
+      "published_at": "2026-07-11 10:30:40",
+      "published_timestamp": 1783737040,
+      "like_count": 6937,
+      "comment_count": 1679,
+      "has_author_interaction": false,
+      "engagement_share": 26.4
+    },
+    {
+      "video_id": "7661035253272059057",
+      "description": "豪威集团 · 紫光科技 · 中兴通讯",
+      "published_at": "2026-07-11 06:49:30",
+      "published_timestamp": 1783723770,
+      "like_count": 10906,
+      "comment_count": 2758,
+      "has_author_interaction": false,
+      "engagement_share": 41.9
+    },
+    {
+      "video_id": "7660831986836327865",
+      "description": "紫光股份 · 铖昌科技股票 · 兆易创新",
+      "published_at": "2026-07-10 17:40:42",
+      "published_timestamp": 1783676442,
+      "like_count": 10682,
+      "comment_count": 2512,
+      "has_author_interaction": false,
+      "engagement_share": 40.5
+    },
+    {
+      "video_id": "7660684518856710577",
+      "description": "中科曙光 · 紫光股份 · 浪潮信息",
+      "published_at": "2026-07-10 08:08:28",
+      "published_timestamp": 1783642108,
+      "like_count": 16531,
+      "comment_count": 4873,
+      "has_author_interaction": false,
+      "engagement_share": 65.6
+    },
+    {
+      "video_id": "7660651435239307643",
+      "description": "紫光股份 · 国内算力产业链 · 国产算力概念股",
+      "published_at": "2026-07-10 06:00:05",
+      "published_timestamp": 1783634405,
+      "like_count": 17647,
+      "comment_count": 2512,
+      "has_author_interaction": false,
+      "engagement_share": 61.8
+    },
+    {
+      "video_id": "7660422914164403313",
+      "description": "华勤技术 · 中科曙光 · 国产算力链",
+      "published_at": "2026-07-09 15:13:18",
+      "published_timestamp": 1783581198,
+      "like_count": 12120,
+      "comment_count": 3072,
+      "has_author_interaction": false,
+      "engagement_share": 46.6
+    }
+  ],
+  "modules": [
+    {
+      "slug": "mrmodel",
+      "name": "模型先生",
+      "description": "视频存档、互动追踪与逐条转录",
+      "status": "online",
+      "eyebrow": "DOUYIN MONITOR"
+    }
+  ]
+}
