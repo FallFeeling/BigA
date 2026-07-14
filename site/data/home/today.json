@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T09:44:34",
+  "generated_at": "2026-07-14T12:49:40",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 33,
-    "total_likes": 483581,
-    "total_comments": 101547,
-    "active_monitors": 2,
+    "total_likes": 483987,
+    "total_comments": 102957,
+    "active_monitors": 1,
     "interaction_video_count": 9,
     "interaction_rate": 27.3,
     "author_reply_count": 15,
@@ -28,18 +28,18 @@
       "description": "该视频未填写文案",
       "published_at": "2026-07-13 15:10:18",
       "published_timestamp": 1783926618,
-      "like_count": 13279,
-      "comment_count": 3360,
+      "like_count": 13651,
+      "comment_count": 4771,
       "has_author_interaction": true,
-      "engagement_share": 48.4
+      "engagement_share": 53.5
     },
     {
       "video_id": "7661468847606672458",
       "description": "该视频未填写文案",
       "published_at": "2026-07-12 10:52:04",
       "published_timestamp": 1783824724,
-      "like_count": 30298,
-      "comment_count": 4075,
+      "like_count": 30332,
+      "comment_count": 4074,
       "has_author_interaction": true,
       "engagement_share": 100.0
     },
@@ -61,7 +61,7 @@
       "like_count": 6937,
       "comment_count": 1679,
       "has_author_interaction": false,
-      "engagement_share": 25.1
+      "engagement_share": 25.0
     },
     {
       "video_id": "7661035253272059057",
@@ -71,7 +71,7 @@
       "like_count": 10906,
       "comment_count": 2758,
       "has_author_interaction": false,
-      "engagement_share": 39.8
+      "engagement_share": 39.7
     },
     {
       "video_id": "7660831986836327865",
@@ -81,7 +81,7 @@
       "like_count": 10682,
       "comment_count": 2512,
       "has_author_interaction": false,
-      "engagement_share": 38.4
+      "engagement_share": 38.3
     },
     {
       "video_id": "7660684518856710577",
@@ -91,7 +91,7 @@
       "like_count": 16531,
       "comment_count": 4873,
       "has_author_interaction": false,
-      "engagement_share": 62.3
+      "engagement_share": 62.2
     }
   ],
   "modules": [

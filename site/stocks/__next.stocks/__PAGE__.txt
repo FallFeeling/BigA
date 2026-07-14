@@ -2,5 +2,5 @@
 2:I[62195,["/BigA/_next/static/chunks/0dbhjjzl8qfwv.js","/BigA/_next/static/chunks/0o0cc2d-f6u9f.js"],"StocksDashboard"]
 3:I[97367,["/BigA/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/BigA/_next/static/chunks/0o0cc2d-f6u9f.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_DHiG7K2_uQNfPZn3X0bJ"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/BigA/_next/static/chunks/0o0cc2d-f6u9f.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"P8lBiKuVWHFRu9PFyB0dE"}
 5:null
