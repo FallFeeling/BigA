@@ -1,17 +1,504 @@
 {
-  "generated_at": "2026-07-17T13:07:22",
+  "generated_at": "2026-07-17T16:22:17",
   "author": {
     "name": "模型先生",
     "sec_uid": "MS4wLjABAAAAK713M9d8PGNb_WiMYf7yKhOI5y60H4uELJK2guDjJT0"
   },
   "scan_note": "新视频监控 48 小时；前 20 条评论持续更新；博主互动永久保留。",
-  "video_count": 34,
+  "video_count": 35,
   "interaction_video_count": 9,
-  "transcribed_video_count": 9,
-  "comment_enriched_video_count": 9,
+  "transcribed_video_count": 10,
+  "comment_enriched_video_count": 10,
   "videos": [
     {
       "order": 1,
+      "video_id": "7663400486263099377",
+      "url": "https://www.douyin.com/video/7663400486263099377",
+      "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4tiS3EiEu0AnOWBUZNBfEc93eAiBKdw0HoqIZ~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099631600&x-signature=rhrmOHvGjJvKiawh5WW%2BD4gM37Q%3D",
+      "description": "市场走势受量化影响，高位科技股波动大。作者曾看多商业航天，但最近一次走势受量化影响。他看好的板块相对科技股表现强势，量化杀跌后可能有单日反弹机会，但难以预测。",
+      "description_source": "chapter_abstract",
+      "published_at": "2026-07-17 15:47:48",
+      "published_timestamp": 1784274468,
+      "like_count": 3568,
+      "comment_count": 1824,
+      "duration_ms": 130600,
+      "monitor_status": "active",
+      "monitor_ends_at": "2026-07-19T15:47:48",
+      "is_deleted": false,
+      "deleted_at": "",
+      "interaction_threads": [],
+      "has_author_interaction": false,
+      "scanned_top_comment_count": 100,
+      "transcript_status": "complete",
+      "transcript": {
+        "model": "small",
+        "audio_preprocessing": "ffmpeg pcm_s16le 16kHz mono",
+        "vad_filter": false,
+        "language": "zh",
+        "language_probability": 1,
+        "text": "行情走到今天呢,我觉得如果不说两句,可能会问朋友对我的信任。首先呢,像市场这种走势啊,主要是练画造成的,就是练画,助涨同处也助跌。这主要是高位的科技股,因为最后一波行情的话,其实我们这个明确只出30号是高点,然后后面间接回避高位科技股。其实呢,就是有一位朋友觉得我最近在看多上海航天,嗯,并不是。上海航天我只看多过两次,是去年11月12月和今年3月下旬。最近的上周发射成功以后呢,我也发了两个视频,然后网上肯定有记录,没有任何看多的意思。因为当天下午是这种练画,快速推升,然后尾盘走弱。这种走势其实大概率就是,后面就是刺热,就是沙跌,像热转墙。我最后当时说了一个热转墙,实际上没有组织热转墙,那没有,同样也是练画沙跌造成的。关于最近我比较看好的是,看好的这个板块呢,其实从我个人角度来说没有,至少我主观上没有让任何人去接盘啊,是这个意思。只是因为今天网上说,我说什么都是莫能良可啊,这类的,干配我就直接说。其实呢,我看好的这板块,其实相对于科技股啊,对于还是比较强势的,这个懂行呢,其实都能看出来。最后呢,因为这种练画,沙跌,后面会有这个单日反弹的这种暴力机会。但这个机会是盘中把握的,是很难预测,但是,反正这就是自己的这个观点吧。",
+        "segments": [
+          {
+            "start": 0.0,
+            "end": 6.4,
+            "start_display": "00:00",
+            "end_display": "00:06",
+            "text": "行情走到今天呢,我觉得如果不说两句,可能会问朋友对我的信任。"
+          },
+          {
+            "start": 6.4,
+            "end": 14.4,
+            "start_display": "00:06",
+            "end_display": "00:14",
+            "text": "首先呢,像市场这种走势啊,主要是练画造成的,就是练画,助涨同处也助跌。"
+          },
+          {
+            "start": 14.4,
+            "end": 24.4,
+            "start_display": "00:14",
+            "end_display": "00:24",
+            "text": "这主要是高位的科技股,因为最后一波行情的话,其实我们这个明确只出30号是高点,然后后面间接回避高位科技股。"
+          },
+          {
+            "start": 25.4,
+            "end": 38.8,
+            "start_display": "00:25",
+            "end_display": "00:39",
+            "text": "其实呢,就是有一位朋友觉得我最近在看多上海航天,嗯,并不是。上海航天我只看多过两次,是去年11月12月和今年3月下旬。"
+          },
+          {
+            "start": 38.8,
+            "end": 47.8,
+            "start_display": "00:39",
+            "end_display": "00:48",
+            "text": "最近的上周发射成功以后呢,我也发了两个视频,然后网上肯定有记录,没有任何看多的意思。"
+          },
+          {
+            "start": 48.2,
+            "end": 55.2,
+            "start_display": "00:48",
+            "end_display": "00:55",
+            "text": "因为当天下午是这种练画,快速推升,然后尾盘走弱。"
+          },
+          {
+            "start": 55.2,
+            "end": 63.2,
+            "start_display": "00:55",
+            "end_display": "01:03",
+            "text": "这种走势其实大概率就是,后面就是刺热,就是沙跌,像热转墙。"
+          },
+          {
+            "start": 63.2,
+            "end": 69.2,
+            "start_display": "01:03",
+            "end_display": "01:09",
+            "text": "我最后当时说了一个热转墙,实际上没有组织热转墙,那没有,同样也是练画沙跌造成的。"
+          },
+          {
+            "start": 70.2,
+            "end": 87.2,
+            "start_display": "01:10",
+            "end_display": "01:27",
+            "text": "关于最近我比较看好的是,看好的这个板块呢,其实从我个人角度来说没有,至少我主观上没有让任何人去接盘啊,是这个意思。"
+          },
+          {
+            "start": 87.2,
+            "end": 95.2,
+            "start_display": "01:27",
+            "end_display": "01:35",
+            "text": "只是因为今天网上说,我说什么都是莫能良可啊,这类的,干配我就直接说。"
+          },
+          {
+            "start": 96.2,
+            "end": 104.2,
+            "start_display": "01:36",
+            "end_display": "01:44",
+            "text": "其实呢,我看好的这板块,其实相对于科技股啊,对于还是比较强势的,这个懂行呢,其实都能看出来。"
+          },
+          {
+            "start": 107.2,
+            "end": 117.2,
+            "start_display": "01:47",
+            "end_display": "01:57",
+            "text": "最后呢,因为这种练画,沙跌,后面会有这个单日反弹的这种暴力机会。"
+          },
+          {
+            "start": 117.2,
+            "end": 129.2,
+            "start_display": "01:57",
+            "end_display": "02:09",
+            "text": "但这个机会是盘中把握的,是很难预测,但是,反正这就是自己的这个观点吧。"
+          }
+        ]
+      },
+      "transcript_error": "",
+      "comments_status": "complete",
+      "comments": [
+        {
+          "comment_id": "7663403841593705253",
+          "text": "你们还在浪潮信息吗 我扛了，一周10%，但对比外面好像一周跌20-40%满地都是，好像也很能接受了[暗中观察]",
+          "create_time": 1784275250,
+          "create_time_display": "2026-07-17 16:00:50",
+          "digg_count": 30,
+          "reply_total": 12,
+          "ip_label": "广东",
+          "user": {
+            "nickname": "Simon",
+            "uid": "77896530551",
+            "sec_uid": "MS4wLjABAAAAjkLqG9yLrw-B74Q0HnPEHklIXeqFGrNRwVaTlUeKEWc",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_eb9453f1363de4dc42d1906f1674c2af.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663404352065913615",
+          "text": "紫光，曙光，中兴还有戏么，全仓跌停",
+          "create_time": 1784275372,
+          "create_time_display": "2026-07-17 16:02:52",
+          "digg_count": 4,
+          "reply_total": 11,
+          "ip_label": "江苏",
+          "user": {
+            "nickname": "Shayne.F",
+            "uid": "75488939464",
+            "sec_uid": "MS4wLjABAAAAOZ4M4mN2NsH1JU-R0cvZsEtlT54bFZk_c7Ou3o-bfqg",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a7d5e99a04004056e54e564127c43255.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663402186319954739",
+          "text": "先生 俺的铜陵有色呢[捂脸]套死了[捂脸]",
+          "create_time": 1784274865,
+          "create_time_display": "2026-07-17 15:54:25",
+          "digg_count": 0,
+          "reply_total": 9,
+          "ip_label": "山东",
+          "user": {
+            "nickname": "@121",
+            "uid": "3174987208340932",
+            "sec_uid": "MS4wLjABAAAAbXHD1ako8mm_GJAif-J2YsEM5R7erDWs3EhsqKs8uKVGKquNxinFYsDFRbECqeFY",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_bd7ec5b14339428ab53905b9226f6a2e.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663402710780101376",
+          "text": "国产算力我今天全仓差点跌停了[捂脸]",
+          "create_time": 1784274988,
+          "create_time_display": "2026-07-17 15:56:28",
+          "digg_count": 1,
+          "reply_total": 9,
+          "ip_label": "陕西",
+          "user": {
+            "nickname": "牛肉粉丝不好吃",
+            "uid": "83053754996",
+            "sec_uid": "MS4wLjABAAAA-fy6KCxL4RodYcaWx522TL0XdMuL-_II3mbErzVBJ3A",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0fc25619bc262762671a5d49fbfb8a0e.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663404095718081317",
+          "text": "反弹选今天抗跌，硬科技的票，我在水下已重仓，今天最高冲8个点，尾盘回落到2个点[不看]",
+          "create_time": 1784275309,
+          "create_time_display": "2026-07-17 16:01:49",
+          "digg_count": 1,
+          "reply_total": 9,
+          "ip_label": "广西",
+          "user": {
+            "nickname": "echo丶",
+            "uid": "1560897340583661",
+            "sec_uid": "MS4wLjABAAAAr7mVo3lkUgo1oFFjqXL23DX94NM20LVr1vMaURotrGlGzDudBp1SX9yJr5Oid5Ri",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_60f5c112732d41959d7b33b50a12aa9d.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663403167527437090",
+          "text": "兄弟们，下周一必涨，如果周一不涨就是压盘 ，那周二必然暴涨，如果周二还不涨，那周三必将远古巨阳，周三如果还是跌，那周四会涨到你心慌，如果周四还跌，那周五将会有pro max 巨阳，如果周五还没涨，就当我没说",
+          "create_time": 1784275095,
+          "create_time_display": "2026-07-17 15:58:15",
+          "digg_count": 61,
+          "reply_total": 7,
+          "ip_label": "广东",
+          "user": {
+            "nickname": "18",
+            "uid": "659319332290272",
+            "sec_uid": "MS4wLjABAAAAMEATu07xk3-QpC-S7WXKvl5FxI01m0LaL-icTjRCaFI",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4989c5c5a1ba511d0affdb5fc97f2ef6.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663409110368518970",
+          "text": "先生，其实，懂你的自然就懂你。认知低的肯定不懂这里面的逻辑。不管怎么做总会有人喜欢有人讨厌。",
+          "create_time": 1784276476,
+          "create_time_display": "2026-07-17 16:21:16",
+          "digg_count": 0,
+          "reply_total": 0,
+          "ip_label": "湖北",
+          "user": {
+            "nickname": "阿宁",
+            "uid": "3499118715999796",
+            "sec_uid": "MS4wLjABAAAAnCkS-ivOVPkjuac1ZISP40gjO3WNafvD-a9tDce1GNNgTwBtWznGPaP6IOUpfxcQ",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_osAA1XdAxiIVAZaYVaBEMpv1NP9RAhZXAilEi.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663408747608392488",
+          "text": "大哥不要有压力，我们跟着大哥学习了好多，提升了投资认知层次，我相信这是大多数粉丝的共识。少数投资者亏损后抱怨几句，他们不能代表大多数粉丝对大哥的态度。",
+          "create_time": 1784276395,
+          "create_time_display": "2026-07-17 16:19:55",
+          "digg_count": 1,
+          "reply_total": 0,
+          "ip_label": "河北",
+          "user": {
+            "nickname": "岸上观潮",
+            "uid": "2206069817620059",
+            "sec_uid": "MS4wLjABAAAAN44sf0RrKsq7jbNlFf5cbgq9VbhRV3Bl_JuwTnNj7Z6qPYEdSmII-eNDy23vyXVW",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_oEXDZpADvB7bA4PpAWiaqmVAiwdGAVWgIDdEI.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663401201732453154",
+          "text": "先生，只想问一句，现在是牛转熊了吗，还是牛市吗",
+          "create_time": 1784274639,
+          "create_time_display": "2026-07-17 15:50:39",
+          "digg_count": 30,
+          "reply_total": 10,
+          "ip_label": "陕西",
+          "user": {
+            "nickname": "当归",
+            "uid": "75389235531",
+            "sec_uid": "MS4wLjABAAAAsb00OcARhhwtqv_toHbW9KyDJGPkdKMv1J6ZGdqrmQc",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2d4d400063473503fa0d7.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663409188894917434",
+          "text": "之前先生说的，如果从时间上看，科技股大概要回调到开学，那这短短几天天就回调这么多，这样从空间上看差不多了吗？",
+          "create_time": 1784276495,
+          "create_time_display": "2026-07-17 16:21:35",
+          "digg_count": 1,
+          "reply_total": 0,
+          "ip_label": "山东",
+          "user": {
+            "nickname": "军北强哥",
+            "uid": "102172508101",
+            "sec_uid": "MS4wLjABAAAAdKYu9Oj2qwI47FbWf-FKOWnngftvZwK_jjCDPjCJEHc",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_342ba1173dbc4a1abe7bcd247dd2f8b9.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663406914672444218",
+          "text": "老师，千万不要离开我们[流泪]小散碰到一个像您这样真诚又厉害的愿意指点我们的太不容易了[流泪]其实老师您的美誉度很多明白人都赞不绝口的，就算模棱两可也没关系，总是要筛选掉一些小笨蛋的[流泪]",
+          "create_time": 1784275965,
+          "create_time_display": "2026-07-17 16:12:45",
+          "digg_count": 3,
+          "reply_total": 0,
+          "ip_label": "安徽",
+          "user": {
+            "nickname": "兔子屁屁-",
+            "uid": "100538424084",
+            "sec_uid": "MS4wLjABAAAArejMhaHT4SdZwrw3Xa_7gV85CV49nT2u-6AKebmJois",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_241050002844583d85aa6.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663408422532514587",
+          "text": "跟着先生在存储赚到了入股市以来最大的一笔，而且遵照先生的提示离开科技，这次先生提示的板块，只要你是一个合格的股民，稍微对大盘有点儿感知，截止到昨天还几乎是平盘，我个人从先生提示当天入局截止到今天大跌以后还有盈利，所以来先生这里是求观点的，不是来让喂饭的，没有人能把饭喂到你的嘴里，",
+          "create_time": 1784276318,
+          "create_time_display": "2026-07-17 16:18:38",
+          "digg_count": 2,
+          "reply_total": 0,
+          "ip_label": "河南",
+          "user": {
+            "nickname": "禹州哈啰智能电动车-小五",
+            "uid": "81597142310",
+            "sec_uid": "MS4wLjABAAAAb66pzWIynJPMOg4I4gN5hvfZddTMvRlZ4M7wZsIqWh8",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_250c49bcf180c2178898fd060cca6fdb.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663405297910137649",
+          "text": "先生你不要被某些个不知道满足的巨婴和黑子影响心情，对我们大多数人而言，你是我们的精神寄托，你的提醒是好心希望我们散户赚钱点，但市场也不是你能控制的，你说6月30日是高点，回避科技股，听的人都躲过了大跌，已经是功德无量了[比心][比心][比心]",
+          "create_time": 1784275589,
+          "create_time_display": "2026-07-17 16:06:29",
+          "digg_count": 1,
+          "reply_total": 0,
+          "ip_label": "安徽",
+          "user": {
+            "nickname": "💋伊伊",
+            "uid": "4020272002237948",
+            "sec_uid": "MS4wLjABAAAAGo8unkijawEtdhUl_q_T6Y6vjFVjGUhIiEA-gK-383QMJaox94iEDxMzVIF5gq9P",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_osAJAKq2eRTQfE7ArHDxzIXH8eN7EpFgAVlBs6.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663406104131355419",
+          "text": "为什么先生讲话有种让人很安心 很信服的感觉[捂脸]",
+          "create_time": 1784275778,
+          "create_time_display": "2026-07-17 16:09:38",
+          "digg_count": 2,
+          "reply_total": 0,
+          "ip_label": "宁夏",
+          "user": {
+            "nickname": "Hj",
+            "uid": "93610478485",
+            "sec_uid": "MS4wLjABAAAAjb05pCaBG3JS5wOb1SRSoT1sdJe29LfM26vHh_lEZgI",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7f63641795bc1a6f166a29015b3430bf.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663402128626713390",
+          "text": "有没有想过很多人看不懂话[尬笑]",
+          "create_time": 1784274851,
+          "create_time_display": "2026-07-17 15:54:11",
+          "digg_count": 4,
+          "reply_total": 15,
+          "ip_label": "浙江",
+          "user": {
+            "nickname": "一个40+的全职妈妈",
+            "uid": "95627438879",
+            "sec_uid": "MS4wLjABAAAA43wzagZtqDa-77SrO5wShv1vlPnEBjrNWiSZBC2el28",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7b4341b442f9d70f10f05637d784a968.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663402354989794082",
+          "text": "昨晚哭一晚上为自己的贪心后悔自责，问了无数遍为什么6月底我没走？？？以为今天会反弹，结果今天本金快40万都亏没了，真的活着太累了，没什么比今天还绝望的，人怎么可以活的这么失败[流泪]",
+          "create_time": 1784274906,
+          "create_time_display": "2026-07-17 15:55:06",
+          "digg_count": 87,
+          "reply_total": 32,
+          "ip_label": "上海",
+          "user": {
+            "nickname": "PG",
+            "uid": "92534985414",
+            "sec_uid": "MS4wLjABAAAA0A7KWxNkKNSxmzocoiK08_osYZcbmswvnsRBa5P8HfQ",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_62d8c0256a44f53d3683485269cb0095.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663406688771310385",
+          "text": "大佬 暴力反弹预计在周几啊",
+          "create_time": 1784275913,
+          "create_time_display": "2026-07-17 16:11:53",
+          "digg_count": 1,
+          "reply_total": 3,
+          "ip_label": "湖南",
+          "user": {
+            "nickname": "猫哥不搞笑",
+            "uid": "2643669515506686",
+            "sec_uid": "MS4wLjABAAAAUL6SJTa100nCfYgb71hVVL8B0vTyRDtPbpdZoQuKhs66rzgNYl9e1PAesZmwzWpo",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_ooIMqfwAhIAEgLgYJBtGYAkAeAynyzNkAAx0CK.jpeg?from=2064092626"
+          },
+          "replies_status": "error",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663406894153040682",
+          "text": "想回复博主上一条视频，从去年关注博主，甚至还推荐了给身边的朋友。先生是我唯一一个星标，每天都会翻看有没有更新，所有的视频我应该全部看过，重要的也都做了笔记。真的希望博主最后不要受到黑粉的伤害，也不要寒心。[泣不成声]很多老粉内心都很感谢遇到你。",
+          "create_time": 1784275962,
+          "create_time_display": "2026-07-17 16:12:42",
+          "digg_count": 12,
+          "reply_total": 0,
+          "ip_label": "北京",
+          "user": {
+            "nickname": "So funny_",
+            "uid": "61113571384",
+            "sec_uid": "MS4wLjABAAAANjkb-NbutVIEu6HOaF-NlDtGz3rj0TCE7pdEPuy6hxw",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2c12aa773b246213dc598090c4105f9d.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663406499464659770",
+          "text": "市场中我唯一看的就是模型先生。一生中可以称之为我老师的很多，我真心认可的很少，模型是其中一个。其对于市场大势的某些判断，可以说从未出过错。\n借用孙子兵法的一句话，了解你自己可以立于不败之地，了解你的敌人可以获得胜利。对于本我的认知，对于市场情绪的判断，是一条很漫长的路，也是一条不容易的路。交易最终要靠的还是自己。我懂的大家的艰辛，但我呼吁不要在评论区将情绪宣泄给模型先生，作为为数不多股市中不以赚钱为目的分享观点的博主，他值得我们一份尊敬。",
+          "create_time": 1784275868,
+          "create_time_display": "2026-07-17 16:11:08",
+          "digg_count": 2,
+          "reply_total": 0,
+          "ip_label": "安徽",
+          "user": {
+            "nickname": "一飞飞飞飞飞",
+            "uid": "429249379178363",
+            "sec_uid": "MS4wLjABAAAAAg8y-OmMEI3X9Th7L7-pkFeXi9hyUPADWG2O-oPYfQ4",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_ocbJEMfDoE2J9AqAeP9BBUMjSCkAWE5AFAAGIw.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        },
+        {
+          "comment_id": "7663409102316487433",
+          "text": "现在是以空间换时间吗",
+          "create_time": 1784276476,
+          "create_time_display": "2026-07-17 16:21:16",
+          "digg_count": 0,
+          "reply_total": 0,
+          "ip_label": "四川",
+          "user": {
+            "nickname": "吃乐事薯片",
+            "uid": "1244248113676908",
+            "sec_uid": "MS4wLjABAAAAEKzIO0pN7MqLFl2wzTo8atK0RdiihCJKI8E2s6QjCK7cIKa3q1OWbucZn7CXaQYt",
+            "avatar": "https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2f92b0007a82660e93360.jpeg?from=2064092626"
+          },
+          "replies_status": "complete",
+          "author_liked": false,
+          "replies": []
+        }
+      ],
+      "comment_reply_count": 0
+    },
+    {
+      "order": 2,
       "video_id": "7663286234136074931",
       "url": "https://www.douyin.com/video/7663286234136074931",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oE9aYwBAEEexp5UAXdqAZDjBWIQnDBGfgAhFt9~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099606400&x-signature=IxcA%2FkQ0puuQY%2BOT6J3X5%2F%2BfAhk%3D",
@@ -19,7 +506,7 @@
       "description_source": "chapter_abstract",
       "published_at": "2026-07-17 08:24:27",
       "published_timestamp": 1784247867,
-      "like_count": 9869,
+      "like_count": 11038,
       "comment_count": 0,
       "duration_ms": 113175,
       "monitor_status": "active",
@@ -130,7 +617,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 2,
+      "order": 3,
       "video_id": "7661997109886056346",
       "url": "https://www.douyin.com/video/7661997109886056346",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o8ccGWM57BBbIgeDwUQQTDCA4FhAcgeeqU84CF~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099307600&x-signature=3bXDTcEJsJaGuqxLJBpkfSjb7Nc%3D",
@@ -554,7 +1041,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 3,
+      "order": 4,
       "video_id": "7661906480098216049",
       "url": "https://www.douyin.com/video/7661906480098216049",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQkOIMU1wiBVjZUXNSanvw1PtlPBAiiEVPhBA~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099286000&x-signature=h9mZYKmQRHmMyR%2F53MKER%2FYV3nI%3D",
@@ -1044,7 +1531,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 4,
+      "order": 5,
       "video_id": "7661468847606672458",
       "url": "https://www.douyin.com/video/7661468847606672458",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oAKfYiCPAVReOB87IxAAmPwFBjiAK1IDgBBTEl~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099181600&x-signature=99rddNSXJMCy3FwaVnsnUzm997g%3D",
@@ -6570,7 +7057,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 5,
+      "order": 6,
       "video_id": "7661149563777223611",
       "url": "https://www.douyin.com/video/7661149563777223611",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okOB1iLokIGQNQCA3uigeeIsUjQf7u0J8Rd7vC~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=h1AGtesBnj%2BYJMwAwE16KRDB14Q%3D",
@@ -8760,7 +9247,7 @@
       "comment_reply_count": 33
     },
     {
-      "order": 6,
+      "order": 7,
       "video_id": "7661092248272444273",
       "url": "https://www.douyin.com/video/7661092248272444273",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o0sPIYF5eWeISxgRECDAQrUi99qwqCNAUaE3fb~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=iXCEwpn6WQ660FZt0odfMP1qW0o%3D",
@@ -11223,7 +11710,7 @@
       "comment_reply_count": 129
     },
     {
-      "order": 7,
+      "order": 8,
       "video_id": "7661035253272059057",
       "url": "https://www.douyin.com/video/7661035253272059057",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIFIm2ofQUoB8NoC2FMGeJM70RALE4ugnafUgd~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=vZWaov5snScr87sCe9oiKqh5cOw%3D",
@@ -11667,7 +12154,7 @@
       "comment_reply_count": 2
     },
     {
-      "order": 8,
+      "order": 9,
       "video_id": "7660831986836327865",
       "url": "https://www.douyin.com/video/7660831986836327865",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/owPfLF4JAhy9kDfcI6vEAQpw5wEAUq7ewBCQEB~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=OILea0gqRtvlHZeiu2vB%2Fxqm2wk%3D",
@@ -13457,7 +13944,7 @@
       "comment_reply_count": 86
     },
     {
-      "order": 9,
+      "order": 10,
       "video_id": "7660684518856710577",
       "url": "https://www.douyin.com/video/7660684518856710577",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEMKNQrKeAvQDWhDO4e8K6feO3sYF2A2BphNAT~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=VAqfJdWOoLFQmBP7NQEJalC5K7E%3D",
@@ -15574,7 +16061,7 @@
       "comment_reply_count": 106
     },
     {
-      "order": 10,
+      "order": 11,
       "video_id": "7660651435239307643",
       "url": "https://www.douyin.com/video/7660651435239307643",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okNAEJAF4Im3C7DgiQBokOQDRiMfDfdC8epUqg~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=FYIqRRbj4mS5ADbTo%2B%2F51NmcuuU%3D",
@@ -15600,7 +16087,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 11,
+      "order": 12,
       "video_id": "7660422914164403313",
       "url": "https://www.douyin.com/video/7660422914164403313",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ospDHfVeRPcULJAGEQge7S7GgILBO3BihHn0IN~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=aw7CPjFS%2BEM40SUWD51uzq3YGVg%3D",
@@ -15626,7 +16113,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 12,
+      "order": 13,
       "video_id": "7660080767132878193",
       "url": "https://www.douyin.com/video/7660080767132878193",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIMgikaEB6ArS6O9ktXdPBiIA9wP5UcEL4t7h~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=clyFZN35tbEstFwJ2ai9hUG5%2BM0%3D",
@@ -15652,7 +16139,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 13,
+      "order": 14,
       "video_id": "7659728886310452709",
       "url": "https://www.douyin.com/video/7659728886310452709",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o0vZNjgmeAQzAWifDG7UUaDUpIJOLBnTFafgCb~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=NOiQCtJPtiMw9dNi8Uiob7aJd9E%3D",
@@ -16793,7 +17280,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 14,
+      "order": 15,
       "video_id": "7659686503471732219",
       "url": "https://www.douyin.com/video/7659686503471732219",
       "cover": "https://p9-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oknFJAqeOEsQAr2Ei1lwpYB8idfAABE6BI5MPh~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=lzHsVKwvvkP1pnA1hnYjMBD1HPk%3D",
@@ -22206,7 +22693,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 15,
+      "order": 16,
       "video_id": "7659342661496689786",
       "url": "https://www.douyin.com/video/7659342661496689786",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oULXwLI2diphz5MpBOpcVtIkE8iASPzxBaAPP~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=1JlFNHgNi5HhUWwJ12XYJZg3xo8%3D",
@@ -22232,7 +22719,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 16,
+      "order": 17,
       "video_id": "7659310835387912689",
       "url": "https://www.douyin.com/video/7659310835387912689",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oYIWQCEA9rWSAfDqmFCifqLAWazAaEgwn51TB5~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=LKpQ6%2Fwpha0BLu4c8aIgLsG5bqk%3D",
@@ -23356,7 +23843,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 17,
+      "order": 18,
       "video_id": "7658926591523121905",
       "url": "https://www.douyin.com/video/7658926591523121905",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQfBAkCSsF2CADOTlUmb71gdkEItfJBDQT8ke0~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=4xnh0PZ9SP9gNjv6Qkiu4WSmTLw%3D",
@@ -23382,7 +23869,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 18,
+      "order": 19,
       "video_id": "7658918423364332145",
       "url": "https://www.douyin.com/video/7658918423364332145",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o8CBH1FkXED1v9BAGDNgf3EwUJIq7TfJOMbf8D~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=96Jjlw9oZIAdWjsVEpi%2FvzvSLZk%3D",
@@ -23408,7 +23895,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 19,
+      "order": 20,
       "video_id": "7658242203194191227",
       "url": "https://www.douyin.com/video/7658242203194191227",
       "cover": "https://p9-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okATEAr1niqBIeQIKBHvBiiIhB5WTeE7rsdCzw~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=tpoBaLo2efFIT82ShVrTWaRwrpA%3D",
@@ -23434,7 +23921,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 20,
+      "order": 21,
       "video_id": "7657828396693771633",
       "url": "https://www.douyin.com/video/7657828396693771633",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okPIwEfB9JhEqAEfGivRJhllsd9DABFUnipExn~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=2q6jodNAeH%2FPm%2BJKYMEOQrWiuIc%3D",
@@ -24527,7 +25014,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 21,
+      "order": 22,
       "video_id": "7657521936864940281",
       "url": "https://www.douyin.com/video/7657521936864940281",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oYlvyJuEPNIqRk6qAACQ9eGFsfCZ0DAnEDWBwV~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=VoXEnbYOYzq%2BSe7Fc3cLLuCreLU%3D",
@@ -24553,7 +25040,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 22,
+      "order": 23,
       "video_id": "7657342471748572645",
       "url": "https://www.douyin.com/video/7657342471748572645",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ocGYEZFiDTnMNKuEEADAIhRe9GqwWBNA1FEqfn~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=EN3mUVDdcc6cBnvkCC6qnN%2BNLFI%3D",
@@ -27150,7 +27637,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 23,
+      "order": 24,
       "video_id": "7657117121080734065",
       "url": "https://www.douyin.com/video/7657117121080734065",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIVEt3DNFyZoQiDZk9tKABOAJfBEInBfwq4HKE~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=faefYHlh3D2OR27vgQYvlx4NP0c%3D",
@@ -27176,7 +27663,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 24,
+      "order": 25,
       "video_id": "7657096092488188538",
       "url": "https://www.douyin.com/video/7657096092488188538",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUpjEEAFBIlli9DwAZAQHhQ31y8EDfeBnKJqGG~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=5PJdzV6cL6scworuegc%2FGB9olbI%3D",
@@ -27202,7 +27689,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 25,
+      "order": 26,
       "video_id": "7657086037210229369",
       "url": "https://www.douyin.com/video/7657086037210229369",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMcxMIk5PtIOABibisGEbDpNMPAaBZvIy74Hp~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=vjmNlhx2j3V9d4bh6fLrYRCIoBA%3D",
@@ -27228,7 +27715,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 26,
+      "order": 27,
       "video_id": "7656730954166162545",
       "url": "https://www.douyin.com/video/7656730954166162545",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMQAf9FQNEDx3qBAwQKwfJEJqCIx9imEnzDiLB~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=W28zZoUH1Knk7TkK%2BCzm09wQgJ4%3D",
@@ -27254,7 +27741,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 27,
+      "order": 28,
       "video_id": "7656596513762330097",
       "url": "https://www.douyin.com/video/7656596513762330097",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ooODgkdAS2LGu2caCpE7fjePBSJLDYIUgIQQfd~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=YOMITRPAza8zu9x6KQTw6gCCi98%3D",
@@ -27280,7 +27767,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 28,
+      "order": 29,
       "video_id": "7656438075560548339",
       "url": "https://www.douyin.com/video/7656438075560548339",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o0IJ1AIwDBB5gkAqEylAB9HBtDideINiNNgLfw~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=C6kvLW66kS98Fph1tiT%2FFdUaM44%3D",
@@ -27306,7 +27793,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 29,
+      "order": 30,
       "video_id": "7655914829001410225",
       "url": "https://www.douyin.com/video/7655914829001410225",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUfPUTueXhY03fNAeQfA4vgBj9AGaxzMBnfiFa~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=8j4oT0pISGzm%2BqYr9DJ9cjcGju4%3D",
@@ -27332,7 +27819,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 30,
+      "order": 31,
       "video_id": "7655600433772651889",
       "url": "https://www.douyin.com/video/7655600433772651889",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4SeHGAIbv2TCQgI1GLoAKZGA2cOWT1AeFfDeR~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=rh3W9zXmQorxrccx4caJi0XqFIU%3D",
@@ -27358,7 +27845,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 31,
+      "order": 32,
       "video_id": "7655460787654329009",
       "url": "https://www.douyin.com/video/7655460787654329009",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o8p7tqwPfAIeDjJ5CD9qOgBgUEEnFAsYpaYQTq~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=zHDCqBZ9W00Xlnj1e%2FAa%2BphCqHY%3D",
@@ -29619,7 +30106,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 32,
+      "order": 33,
       "video_id": "7654754180514578289",
       "url": "https://www.douyin.com/video/7654754180514578289",
       "cover": "https://p9-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4yMEeSakBAlJ1L9PZi0Ee1BMAowyCCHIxfB7i~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=ytVQxR0fXAfWmufVzFF4AyTeGJA%3D",
@@ -29645,7 +30132,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 33,
+      "order": 34,
       "video_id": "7654166622005303025",
       "url": "https://www.douyin.com/video/7654166622005303025",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4R54IzQGhxeDFHfAIeeA3COqLqoJoTDo8629y~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=sntTOUDaFSpYl3C%2FGUpIGruDD%2FE%3D",
@@ -29671,7 +30158,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 34,
+      "order": 35,
       "video_id": "7653729490837025787",
       "url": "https://www.douyin.com/video/7653729490837025787",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4BE3mvCBPSe1iuAYzxBAYo6iGIEgEwweLgNtj~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=YVzXJRvnRnCVkTLD%2F2GEuWszy%2BY%3D",

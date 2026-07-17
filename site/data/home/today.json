@@ -1,27 +1,37 @@
 {
-  "generated_at": "2026-07-17T13:07:22",
+  "generated_at": "2026-07-17T16:22:17",
   "source": "模型先生公开视频快照",
   "metrics": {
-    "video_count": 34,
-    "total_likes": 495169,
-    "total_comments": 104842,
-    "active_monitors": 1,
+    "video_count": 35,
+    "total_likes": 499906,
+    "total_comments": 106666,
+    "active_monitors": 2,
     "interaction_video_count": 9,
-    "interaction_rate": 26.5,
+    "interaction_rate": 25.7,
     "author_reply_count": 15,
-    "transcribed_video_count": 9,
-    "comment_enriched_video_count": 9
+    "transcribed_video_count": 10,
+    "comment_enriched_video_count": 10
   },
   "recent_videos": [
+    {
+      "video_id": "7663400486263099377",
+      "description": "市场走势受量化影响，高位科技股波动大。作者曾看多商业航天，但最近一次走势受量化影响。他看好的板块相对科技股表现强势，量化杀跌后可能有单日反弹机会，但难以预测。",
+      "published_at": "2026-07-17 15:47:48",
+      "published_timestamp": 1784274468,
+      "like_count": 3568,
+      "comment_count": 1824,
+      "has_author_interaction": false,
+      "engagement_share": 15.7
+    },
     {
       "video_id": "7663286234136074931",
       "description": "抖音用户追求知名度和美誉度，而美誉度的关键是为观众带来实际利益。然而，金融市场存在悖论，大部分人最终会亏钱。作者意识到自己的抖音方向存在问题，需要调整以提高美誉度。",
       "published_at": "2026-07-17 08:24:27",
       "published_timestamp": 1784247867,
-      "like_count": 9869,
+      "like_count": 11038,
       "comment_count": 0,
       "has_author_interaction": false,
-      "engagement_share": 28.7
+      "engagement_share": 32.1
     },
     {
       "video_id": "7661997109886056346",
@@ -82,16 +92,6 @@
       "comment_count": 2758,
       "has_author_interaction": false,
       "engagement_share": 39.7
-    },
-    {
-      "video_id": "7660831986836327865",
-      "description": "紫光股份 · 铖昌科技股票 · 兆易创新",
-      "published_at": "2026-07-10 17:40:42",
-      "published_timestamp": 1783676442,
-      "like_count": 10682,
-      "comment_count": 2512,
-      "has_author_interaction": false,
-      "engagement_share": 38.3
     }
   ],
   "modules": [
