@@ -1,18 +1,28 @@
 {
-  "generated_at": "2026-07-15T15:10:20",
+  "generated_at": "2026-07-17T10:19:25",
   "source": "模型先生公开视频快照",
   "metrics": {
-    "video_count": 33,
-    "total_likes": 485300,
+    "video_count": 34,
+    "total_likes": 491656,
     "total_comments": 104842,
-    "active_monitors": 0,
+    "active_monitors": 1,
     "interaction_video_count": 9,
-    "interaction_rate": 27.3,
+    "interaction_rate": 26.5,
     "author_reply_count": 15,
-    "transcribed_video_count": 8,
-    "comment_enriched_video_count": 8
+    "transcribed_video_count": 9,
+    "comment_enriched_video_count": 9
   },
   "recent_videos": [
+    {
+      "video_id": "7663286234136074931",
+      "description": "抖音用户追求知名度和美誉度，而美誉度的关键是为观众带来实际利益。然而，金融市场存在悖论，大部分人最终会亏钱。作者意识到自己的抖音方向存在问题，需要调整以提高美誉度。",
+      "published_at": "2026-07-17 08:24:27",
+      "published_timestamp": 1784247867,
+      "like_count": 6356,
+      "comment_count": 0,
+      "has_author_interaction": false,
+      "engagement_share": 18.5
+    },
     {
       "video_id": "7661997109886056346",
       "description": "该视频未填写文案",
@@ -82,16 +92,6 @@
       "comment_count": 2512,
       "has_author_interaction": false,
       "engagement_share": 38.3
-    },
-    {
-      "video_id": "7660684518856710577",
-      "description": "中科曙光 · 紫光股份 · 浪潮信息",
-      "published_at": "2026-07-10 08:08:28",
-      "published_timestamp": 1783642108,
-      "like_count": 16531,
-      "comment_count": 4873,
-      "has_author_interaction": false,
-      "engagement_share": 62.2
     }
   ],
   "modules": [
