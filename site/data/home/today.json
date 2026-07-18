@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-18T11:46:29",
+  "generated_at": "2026-07-18T14:33:53",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 37,
-    "total_likes": 514611,
-    "total_comments": 113780,
+    "total_likes": 526695,
+    "total_comments": 117942,
     "active_monitors": 2,
-    "interaction_video_count": 11,
-    "interaction_rate": 29.7,
-    "author_reply_count": 16,
+    "interaction_video_count": 12,
+    "interaction_rate": 32.4,
+    "author_reply_count": 17,
     "transcribed_video_count": 12,
     "comment_enriched_video_count": 12
   },
@@ -18,20 +18,20 @@
       "description": "股市中，想趁反弹解套往往很难，因为需要另一批人认为那是主升才会买。以英科医疗为例，说明业绩不可持续的股票很难解套。只有当自己认为反弹可能是主升时，才有解套机会。",
       "published_at": "2026-07-18 11:30:27",
       "published_timestamp": 1784345427,
-      "like_count": 1011,
-      "comment_count": 319,
-      "has_author_interaction": false,
-      "engagement_share": 3.9
+      "like_count": 9009,
+      "comment_count": 2329,
+      "has_author_interaction": true,
+      "engagement_share": 33.0
     },
     {
       "video_id": "7663671898644038833",
       "description": "该视频未填写文案",
       "published_at": "2026-07-18 09:21:01",
       "published_timestamp": 1784337661,
-      "like_count": 9206,
-      "comment_count": 5070,
+      "like_count": 13292,
+      "comment_count": 7222,
       "has_author_interaction": true,
-      "engagement_share": 41.5
+      "engagement_share": 59.6
     },
     {
       "video_id": "7663400486263099377",
