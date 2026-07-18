@@ -1,27 +1,37 @@
 {
-  "generated_at": "2026-07-18T10:28:36",
+  "generated_at": "2026-07-18T11:46:29",
   "source": "模型先生公开视频快照",
   "metrics": {
-    "video_count": 36,
-    "total_likes": 509662,
-    "total_comments": 111371,
-    "active_monitors": 1,
+    "video_count": 37,
+    "total_likes": 514611,
+    "total_comments": 113780,
+    "active_monitors": 2,
     "interaction_video_count": 11,
-    "interaction_rate": 30.6,
+    "interaction_rate": 29.7,
     "author_reply_count": 16,
-    "transcribed_video_count": 11,
-    "comment_enriched_video_count": 11
+    "transcribed_video_count": 12,
+    "comment_enriched_video_count": 12
   },
   "recent_videos": [
+    {
+      "video_id": "7663705254588501241",
+      "description": "股市中，想趁反弹解套往往很难，因为需要另一批人认为那是主升才会买。以英科医疗为例，说明业绩不可持续的股票很难解套。只有当自己认为反弹可能是主升时，才有解套机会。",
+      "published_at": "2026-07-18 11:30:27",
+      "published_timestamp": 1784345427,
+      "like_count": 1011,
+      "comment_count": 319,
+      "has_author_interaction": false,
+      "engagement_share": 3.9
+    },
     {
       "video_id": "7663671898644038833",
       "description": "该视频未填写文案",
       "published_at": "2026-07-18 09:21:01",
       "published_timestamp": 1784337661,
-      "like_count": 5268,
-      "comment_count": 2980,
+      "like_count": 9206,
+      "comment_count": 5070,
       "has_author_interaction": true,
-      "engagement_share": 24.0
+      "engagement_share": 41.5
     },
     {
       "video_id": "7663400486263099377",
@@ -82,16 +92,6 @@
       "comment_count": 708,
       "has_author_interaction": true,
       "engagement_share": 12.6
-    },
-    {
-      "video_id": "7661092248272444273",
-      "description": "商业航天尾盘跳水原因 · 模型先生商业航天 · 国产算力龙头股",
-      "published_at": "2026-07-11 10:30:40",
-      "published_timestamp": 1783737040,
-      "like_count": 6937,
-      "comment_count": 1679,
-      "has_author_interaction": false,
-      "engagement_share": 25.0
     }
   ],
   "modules": [
