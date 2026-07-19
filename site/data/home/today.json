@@ -1,47 +1,57 @@
 {
-  "generated_at": "2026-07-19T14:48:26",
+  "generated_at": "2026-07-19T17:49:21",
   "source": "模型先生公开视频快照",
   "metrics": {
-    "video_count": 38,
-    "total_likes": 549526,
-    "total_comments": 124835,
-    "active_monitors": 3,
-    "interaction_video_count": 13,
-    "interaction_rate": 34.2,
-    "author_reply_count": 19,
-    "transcribed_video_count": 13,
-    "comment_enriched_video_count": 13
+    "video_count": 39,
+    "total_likes": 567829,
+    "total_comments": 128401,
+    "active_monitors": 4,
+    "interaction_video_count": 14,
+    "interaction_rate": 35.9,
+    "author_reply_count": 20,
+    "transcribed_video_count": 14,
+    "comment_enriched_video_count": 14
   },
   "recent_videos": [
+    {
+      "video_id": "7664145660534596785",
+      "description": "市场走势预测，指数下跌空间有限，反弹后会再杀跌，11月开启跨年度行情，明年科技股和美股、日韩科技股共振高点后会有堪比熊市的杀跌，真正的牛市起点后，80%行业将迎来大级别行情。目前处于牛市孕育期，框架会随市场走势发展而改变。",
+      "published_at": "2026-07-19 15:59:27",
+      "published_timestamp": 1784447967,
+      "like_count": 14246,
+      "comment_count": 2578,
+      "has_author_interaction": true,
+      "engagement_share": 58.5
+    },
     {
       "video_id": "7664092754867746170",
       "description": "该视频未填写文案",
       "published_at": "2026-07-19 12:34:09",
       "published_timestamp": 1784435649,
-      "like_count": 8378,
-      "comment_count": 2385,
+      "like_count": 12033,
+      "comment_count": 3281,
       "has_author_interaction": true,
-      "engagement_share": 31.3
+      "engagement_share": 53.3
     },
     {
       "video_id": "7663705254588501241",
       "description": "股市中，想趁反弹解套往往很难，因为需要另一批人认为那是主升才会买。以英科医疗为例，说明业绩不可持续的股票很难解套。只有当自己认为反弹可能是主升时，才有解套机会。",
       "published_at": "2026-07-18 11:30:27",
       "published_timestamp": 1784345427,
-      "like_count": 17995,
-      "comment_count": 4256,
+      "like_count": 18263,
+      "comment_count": 4286,
       "has_author_interaction": true,
-      "engagement_share": 64.7
+      "engagement_share": 78.4
     },
     {
       "video_id": "7663671898644038833",
       "description": "该视频未填写文案",
       "published_at": "2026-07-18 09:21:01",
       "published_timestamp": 1784337661,
-      "like_count": 18759,
-      "comment_count": 9803,
+      "like_count": 18893,
+      "comment_count": 9865,
       "has_author_interaction": true,
-      "engagement_share": 83.0
+      "engagement_share": 100.0
     },
     {
       "video_id": "7663400486263099377",
@@ -51,7 +61,7 @@
       "like_count": 7895,
       "comment_count": 3549,
       "has_author_interaction": true,
-      "engagement_share": 33.3
+      "engagement_share": 39.8
     },
     {
       "video_id": "7663286234136074931",
@@ -61,7 +71,7 @@
       "like_count": 11199,
       "comment_count": 0,
       "has_author_interaction": false,
-      "engagement_share": 32.5
+      "engagement_share": 38.9
     },
     {
       "video_id": "7661997109886056346",
@@ -71,7 +81,7 @@
       "like_count": 5983,
       "comment_count": 2263,
       "has_author_interaction": false,
-      "engagement_share": 24.0
+      "engagement_share": 28.7
     },
     {
       "video_id": "7661906480098216049",
@@ -81,17 +91,7 @@
       "like_count": 14964,
       "comment_count": 6656,
       "has_author_interaction": true,
-      "engagement_share": 62.8
-    },
-    {
-      "video_id": "7661468847606672458",
-      "description": "该视频未填写文案",
-      "published_at": "2026-07-12 10:52:04",
-      "published_timestamp": 1783824724,
-      "like_count": 30332,
-      "comment_count": 4074,
-      "has_author_interaction": true,
-      "engagement_share": 100.0
+      "engagement_share": 75.2
     }
   ],
   "modules": [
