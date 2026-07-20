@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T14:59:38+08:00",
+  "generated_at": "2026-07-20T18:01:23+08:00",
   "source": "东方财富公开行情",
   "quotes": [
     {
@@ -8,27 +8,27 @@
       "code": "002156",
       "name": "通富微电",
       "secid": "0.002156",
-      "value": 62.98,
-      "changePct": -7.87,
-      "change": -5.38,
-      "volume": 1992320.0,
-      "amount": 13391418332.26,
-      "turnoverRate": 13.13,
+      "value": 63.0,
+      "changePct": -7.84,
+      "change": -5.36,
+      "volume": 2006377.0,
+      "amount": 13479976046.26,
+      "turnoverRate": 13.22,
       "volumeRatio": 0.84,
       "high": 72.0,
       "low": 61.53,
       "open": 70.02,
       "previousClose": 68.36,
-      "totalMarketCap": 95578253517.76,
-      "floatMarketCap": 95569140941.56,
+      "totalMarketCap": 95608605456.0,
+      "floatMarketCap": 95599489986.0,
       "speed": 0,
       "pb": 6.15,
       "change60d": 0,
       "changeYtd": 0,
-      "mainNetFlow": -256645104.0,
+      "mainNetFlow": -257167904.0,
       "industry": "半导体",
-      "pe": 66.08,
-      "updatedAt": 1784530774
+      "pe": 66.1,
+      "updatedAt": 1784541679
     },
     {
       "ticker": "sh600584",
@@ -39,9 +39,9 @@
       "value": 76.99,
       "changePct": -9.94,
       "change": -8.5,
-      "volume": 2006151.0,
-      "amount": 16185449779.0,
-      "turnoverRate": 11.21,
+      "volume": 2018997.0,
+      "amount": 16284351133.0,
+      "turnoverRate": 11.28,
       "volumeRatio": 0.84,
       "high": 86.99,
       "low": 76.94,
@@ -56,7 +56,7 @@
       "mainNetFlow": -2325825072.0,
       "industry": "半导体",
       "pe": 83.39,
-      "updatedAt": 1784530775
+      "updatedAt": 1784541680
     },
     {
       "ticker": "sz002185",
@@ -67,9 +67,9 @@
       "value": 16.85,
       "changePct": -9.99,
       "change": -1.87,
-      "volume": 4329129.0,
-      "amount": 7609588505.78,
-      "turnoverRate": 13.03,
+      "volume": 4361238.0,
+      "amount": 7663692170.78,
+      "turnoverRate": 13.13,
       "volumeRatio": 0.65,
       "high": 18.71,
       "low": 16.85,
@@ -84,7 +84,7 @@
       "mainNetFlow": -376875440.0,
       "industry": "半导体",
       "pe": 68.64,
-      "updatedAt": 1784530776
+      "updatedAt": 1784541681
     },
     {
       "ticker": "sz000021",
@@ -95,9 +95,9 @@
       "value": 35.14,
       "changePct": -9.92,
       "change": -3.87,
-      "volume": 1593364.0,
-      "amount": 5944957424.08,
-      "turnoverRate": 10.12,
+      "volume": 1602051.0,
+      "amount": 5975483542.08,
+      "turnoverRate": 10.18,
       "volumeRatio": 0.85,
       "high": 40.5,
       "low": 35.11,
@@ -109,10 +109,10 @@
       "pb": 4.25,
       "change60d": 0,
       "changeYtd": 0,
-      "mainNetFlow": -439438384.0,
+      "mainNetFlow": -440053168.0,
       "industry": "消费电子",
       "pe": 46.14,
-      "updatedAt": 1784530777
+      "updatedAt": 1784541682
     }
   ]
 }
