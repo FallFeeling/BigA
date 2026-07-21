@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-21T09:04:40",
+  "generated_at": "2026-07-21T12:05:18",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 41,
-    "total_likes": 629916,
-    "total_comments": 132593,
+    "total_likes": 631489,
+    "total_comments": 132731,
     "active_monitors": 4,
     "interaction_video_count": 15,
     "interaction_rate": 36.6,
@@ -18,28 +18,28 @@
       "description": "科技股行情极端，类似2015年7月和2024年2月，可能导致流动性危机。杠杆资金在这种行情中受伤最大，一次回撤可能打穿底线。市场中最好的方法是能在各种极端行情中存活的方法，而非某个阶段盈利最多的方法。",
       "published_at": "2026-07-20 20:39:27",
       "published_timestamp": 1784551167,
-      "like_count": 13011,
+      "like_count": 13764,
       "comment_count": 1,
       "has_author_interaction": true,
-      "engagement_share": 31.9
+      "engagement_share": 33.5
     },
     {
       "video_id": "7664503135667813221",
       "description": "该视频未填写文案",
       "published_at": "2026-07-20 15:06:38",
       "published_timestamp": 1784531198,
-      "like_count": 22722,
+      "like_count": 23189,
       "comment_count": 6,
       "has_author_interaction": false,
-      "engagement_share": 55.7
+      "engagement_share": 56.5
     },
     {
       "video_id": "7664145660534596785",
       "description": "市场走势预测，指数下跌空间有限，反弹后会再杀跌，11月开启跨年度行情，明年科技股和美股、日韩科技股共振高点后会有堪比熊市的杀跌，真正的牛市起点后，80%行业将迎来大级别行情。目前处于牛市孕育期，框架会随市场走势发展而改变。",
       "published_at": "2026-07-19 15:59:27",
       "published_timestamp": 1784447967,
-      "like_count": 34920,
-      "comment_count": 5853,
+      "like_count": 35177,
+      "comment_count": 5904,
       "has_author_interaction": true,
       "engagement_share": 100.0
     },
@@ -48,10 +48,10 @@
       "description": "该视频未填写文案",
       "published_at": "2026-07-19 12:34:09",
       "published_timestamp": 1784435649,
-      "like_count": 16699,
-      "comment_count": 4056,
+      "like_count": 16795,
+      "comment_count": 4143,
       "has_author_interaction": true,
-      "engagement_share": 50.9
+      "engagement_share": 51.0
     },
     {
       "video_id": "7663705254588501241",
@@ -61,7 +61,7 @@
       "like_count": 18893,
       "comment_count": 4332,
       "has_author_interaction": true,
-      "engagement_share": 57.0
+      "engagement_share": 56.5
     },
     {
       "video_id": "7663671898644038833",
@@ -71,7 +71,7 @@
       "like_count": 19277,
       "comment_count": 9954,
       "has_author_interaction": true,
-      "engagement_share": 71.7
+      "engagement_share": 71.2
     },
     {
       "video_id": "7663400486263099377",
@@ -81,7 +81,7 @@
       "like_count": 7895,
       "comment_count": 3549,
       "has_author_interaction": true,
-      "engagement_share": 28.1
+      "engagement_share": 27.9
     },
     {
       "video_id": "7663286234136074931",
@@ -91,7 +91,7 @@
       "like_count": 11199,
       "comment_count": 0,
       "has_author_interaction": false,
-      "engagement_share": 27.5
+      "engagement_share": 27.3
     }
   ],
   "modules": [
