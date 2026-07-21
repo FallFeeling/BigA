@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T15:08:33+08:00",
-  "market_updated_at": "2026-07-21T15:08:33+08:00",
+  "generated_at": "2026-07-21T21:16:06+08:00",
+  "market_updated_at": "2026-07-21T21:16:06+08:00",
   "market_status": "已收盘",
   "source": "东方财富公开行情",
   "source_url": "https://quote.eastmoney.com/center/",
@@ -424,9 +424,9 @@
     }
   ],
   "limit_counts": {
-    "limit_up": 117,
-    "limit_down": 20,
+    "limit_up": 121,
+    "limit_down": 21,
     "trade_date": "20260721",
-    "updated_at": "2026-07-21T15:08:33+08:00"
+    "updated_at": "2026-07-21T21:16:06+08:00"
   }
 }

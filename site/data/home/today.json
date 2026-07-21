@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-21T18:14:31",
+  "generated_at": "2026-07-21T21:14:45",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 42,
-    "total_likes": 645744,
-    "total_comments": 136091,
+    "total_likes": 651882,
+    "total_comments": 137284,
     "active_monitors": 3,
     "interaction_video_count": 16,
     "interaction_rate": 38.1,
@@ -18,30 +18,30 @@
       "description": "该视频未填写文案",
       "published_at": "2026-07-21 15:46:04",
       "published_timestamp": 1784619964,
-      "like_count": 11216,
-      "comment_count": 3086,
+      "like_count": 16779,
+      "comment_count": 4279,
       "has_author_interaction": true,
-      "engagement_share": 34.1
+      "engagement_share": 50.2
     },
     {
       "video_id": "7664588897192130021",
       "description": "科技股行情极端，类似2015年7月和2024年2月，可能导致流动性危机。杠杆资金在这种行情中受伤最大，一次回撤可能打穿底线。市场中最好的方法是能在各种极端行情中存活的方法，而非某个阶段盈利最多的方法。",
       "published_at": "2026-07-20 20:39:27",
       "published_timestamp": 1784551167,
-      "like_count": 15123,
+      "like_count": 15432,
       "comment_count": 1,
       "has_author_interaction": true,
-      "engagement_share": 36.1
+      "engagement_share": 36.8
     },
     {
       "video_id": "7664503135667813221",
       "description": "该视频未填写文案",
       "published_at": "2026-07-20 15:06:38",
       "published_timestamp": 1784531198,
-      "like_count": 24290,
+      "like_count": 24556,
       "comment_count": 6,
       "has_author_interaction": false,
-      "engagement_share": 57.9
+      "engagement_share": 58.6
     },
     {
       "video_id": "7664145660534596785",
