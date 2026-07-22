@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T03:15:00",
+  "generated_at": "2026-07-23T06:26:42",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 44,
-    "total_likes": 692755,
-    "total_comments": 145639,
+    "total_likes": 693412,
+    "total_comments": 145683,
     "active_monitors": 3,
     "interaction_video_count": 16,
     "interaction_rate": 36.4,
@@ -18,28 +18,28 @@
       "description": "该视频未填写文案",
       "published_at": "2026-07-22 17:06:02",
       "published_timestamp": 1784711162,
-      "like_count": 17029,
-      "comment_count": 3134,
+      "like_count": 17456,
+      "comment_count": 3161,
       "has_author_interaction": false,
-      "engagement_share": 48.1
+      "engagement_share": 49.2
     },
     {
       "video_id": "7665257047643399354",
       "description": "该视频未填写文案",
       "published_at": "2026-07-22 15:52:13",
       "published_timestamp": 1784706733,
-      "like_count": 15403,
-      "comment_count": 3140,
+      "like_count": 15621,
+      "comment_count": 3156,
       "has_author_interaction": false,
-      "engagement_share": 44.2
+      "engagement_share": 44.8
     },
     {
       "video_id": "7664884377357138682",
       "description": "该视频未填写文案",
       "published_at": "2026-07-21 15:46:04",
       "published_timestamp": 1784619964,
-      "like_count": 23779,
-      "comment_count": 6360,
+      "like_count": 23791,
+      "comment_count": 6361,
       "has_author_interaction": true,
       "engagement_share": 71.9
     },

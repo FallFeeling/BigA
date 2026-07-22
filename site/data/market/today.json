@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T03:31:04+08:00",
-  "market_updated_at": "2026-07-23T03:31:04+08:00",
+  "generated_at": "2026-07-23T06:32:42+08:00",
+  "market_updated_at": "2026-07-23T06:32:42+08:00",
   "market_status": "盘前",
   "source": "东方财富公开行情",
   "source_url": "https://quote.eastmoney.com/center/",
@@ -410,6 +410,6 @@
     "limit_up": 47,
     "limit_down": 8,
     "trade_date": "20260722",
-    "updated_at": "2026-07-23T03:31:04+08:00"
+    "updated_at": "2026-07-23T06:32:42+08:00"
   }
 }
