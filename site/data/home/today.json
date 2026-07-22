@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T18:28:03",
+  "generated_at": "2026-07-22T20:59:15",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 44,
-    "total_likes": 671901,
-    "total_comments": 142289,
-    "active_monitors": 4,
+    "total_likes": 684752,
+    "total_comments": 144282,
+    "active_monitors": 3,
     "interaction_video_count": 16,
     "interaction_rate": 36.4,
     "author_reply_count": 25,
@@ -18,40 +18,40 @@
       "description": "该视频未填写文案",
       "published_at": "2026-07-22 17:06:02",
       "published_timestamp": 1784711162,
-      "like_count": 3113,
-      "comment_count": 770,
+      "like_count": 12194,
+      "comment_count": 2294,
       "has_author_interaction": false,
-      "engagement_share": 9.3
+      "engagement_share": 34.5
     },
     {
       "video_id": "7665257047643399354",
       "description": "该视频未填写文案",
       "published_at": "2026-07-22 15:52:13",
       "published_timestamp": 1784706733,
-      "like_count": 8852,
-      "comment_count": 2081,
+      "like_count": 12384,
+      "comment_count": 2626,
       "has_author_interaction": false,
-      "engagement_share": 26.1
+      "engagement_share": 35.8
     },
     {
       "video_id": "7664884377357138682",
       "description": "该视频未填写文案",
       "published_at": "2026-07-21 15:46:04",
       "published_timestamp": 1784619964,
-      "like_count": 23466,
-      "comment_count": 6433,
+      "like_count": 23630,
+      "comment_count": 6357,
       "has_author_interaction": true,
-      "engagement_share": 71.3
+      "engagement_share": 71.5
     },
     {
       "video_id": "7664588897192130021",
       "description": "科技股行情极端，类似2015年7月和2024年2月，可能导致流动性危机。杠杆资金在这种行情中受伤最大，一次回撤可能打穿底线。市场中最好的方法是能在各种极端行情中存活的方法，而非某个阶段盈利最多的方法。",
       "published_at": "2026-07-20 20:39:27",
       "published_timestamp": 1784551167,
-      "like_count": 16291,
+      "like_count": 16365,
       "comment_count": 1,
       "has_author_interaction": true,
-      "engagement_share": 38.9
+      "engagement_share": 39.0
     },
     {
       "video_id": "7664503135667813221",
