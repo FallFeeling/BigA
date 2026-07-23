@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T18:37:04",
+  "generated_at": "2026-07-23T21:38:04",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 45,
-    "total_likes": 714466,
-    "total_comments": 147054,
+    "total_likes": 719636,
+    "total_comments": 147216,
     "active_monitors": 3,
     "interaction_video_count": 16,
     "interaction_rate": 35.6,
@@ -18,30 +18,30 @@
       "description": "科技股在低位震荡，投资者在下跌后逐渐感受到痛苦，而单日大阳带来的希望又让人绝望，导致筹码交换。",
       "published_at": "2026-07-23 15:29:20",
       "published_timestamp": 1784791760,
-      "like_count": 14597,
+      "like_count": 19409,
       "comment_count": 2,
       "has_author_interaction": false,
-      "engagement_share": 34.8
+      "engagement_share": 46.3
     },
     {
       "video_id": "7665276074565128869",
       "description": "该视频未填写文案",
       "published_at": "2026-07-22 17:06:02",
       "published_timestamp": 1784711162,
-      "like_count": 21469,
-      "comment_count": 4162,
+      "like_count": 21613,
+      "comment_count": 4273,
       "has_author_interaction": false,
-      "engagement_share": 61.1
+      "engagement_share": 61.7
     },
     {
       "video_id": "7665257047643399354",
       "description": "该视频未填写文案",
       "published_at": "2026-07-22 15:52:13",
       "published_timestamp": 1784706733,
-      "like_count": 17856,
-      "comment_count": 3524,
+      "like_count": 18070,
+      "comment_count": 3575,
       "has_author_interaction": false,
-      "engagement_share": 51.0
+      "engagement_share": 51.6
     },
     {
       "video_id": "7664884377357138682",

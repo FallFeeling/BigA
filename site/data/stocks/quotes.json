@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T18:43:55+08:00",
+  "generated_at": "2026-07-23T21:45:19+08:00",
   "source": "东方财富公开行情",
   "quotes": [
     {
@@ -28,7 +28,7 @@
       "mainNetFlow": -2040802144.0,
       "industry": "半导体",
       "pe": 73.26,
-      "updatedAt": 1784803431
+      "updatedAt": 1784814315
     },
     {
       "ticker": "sh600584",
@@ -56,7 +56,7 @@
       "mainNetFlow": -2076744848.0,
       "industry": "半导体",
       "pe": 87.52,
-      "updatedAt": 1784803432
+      "updatedAt": 1784814316
     },
     {
       "ticker": "sz002185",
@@ -84,7 +84,7 @@
       "mainNetFlow": -950357296.0,
       "industry": "半导体",
       "pe": 72.06,
-      "updatedAt": 1784803433
+      "updatedAt": 1784814317
     },
     {
       "ticker": "sz000021",
@@ -112,7 +112,7 @@
       "mainNetFlow": -122501152.0,
       "industry": "消费电子",
       "pe": 51.33,
-      "updatedAt": 1784803434
+      "updatedAt": 1784814318
     }
   ]
 }
