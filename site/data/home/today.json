@@ -1,47 +1,57 @@
 {
-  "generated_at": "2026-07-24T12:43:31",
+  "generated_at": "2026-07-24T15:48:59",
   "source": "模型先生公开视频快照",
   "metrics": {
-    "video_count": 45,
-    "total_likes": 724903,
-    "total_comments": 147359,
-    "active_monitors": 3,
-    "interaction_video_count": 16,
-    "interaction_rate": 35.6,
-    "author_reply_count": 25,
-    "transcribed_video_count": 20,
-    "comment_enriched_video_count": 20
+    "video_count": 46,
+    "total_likes": 728057,
+    "total_comments": 148411,
+    "active_monitors": 4,
+    "interaction_video_count": 17,
+    "interaction_rate": 37.0,
+    "author_reply_count": 26,
+    "transcribed_video_count": 21,
+    "comment_enriched_video_count": 21
   },
   "recent_videos": [
+    {
+      "video_id": "7665990270068099045",
+      "description": "该视频未填写文案",
+      "published_at": "2026-07-24 15:17:29",
+      "published_timestamp": 1784877449,
+      "like_count": 2767,
+      "comment_count": 1029,
+      "has_author_interaction": true,
+      "engagement_share": 9.1
+    },
     {
       "video_id": "7665622240553943793",
       "description": "科技股在低位震荡，投资者在下跌后逐渐感受到痛苦，而单日大阳带来的希望又让人绝望，导致筹码交换。",
       "published_at": "2026-07-23 15:29:20",
       "published_timestamp": 1784791760,
-      "like_count": 23872,
+      "like_count": 24141,
       "comment_count": 2,
       "has_author_interaction": false,
-      "engagement_share": 56.9
+      "engagement_share": 57.6
     },
     {
       "video_id": "7665276074565128869",
       "description": "该视频未填写文案",
       "published_at": "2026-07-22 17:06:02",
       "published_timestamp": 1784711162,
-      "like_count": 21908,
-      "comment_count": 4333,
+      "like_count": 21950,
+      "comment_count": 4341,
       "has_author_interaction": false,
-      "engagement_share": 62.6
+      "engagement_share": 62.7
     },
     {
       "video_id": "7665257047643399354",
       "description": "该视频未填写文案",
       "published_at": "2026-07-22 15:52:13",
       "published_timestamp": 1784706733,
-      "like_count": 18579,
-      "comment_count": 3658,
+      "like_count": 18655,
+      "comment_count": 3673,
       "has_author_interaction": false,
-      "engagement_share": 53.0
+      "engagement_share": 53.2
     },
     {
       "video_id": "7664884377357138682",
@@ -82,16 +92,6 @@
       "comment_count": 6178,
       "has_author_interaction": true,
       "engagement_share": 100.0
-    },
-    {
-      "video_id": "7664092754867746170",
-      "description": "该视频未填写文案",
-      "published_at": "2026-07-19 12:34:09",
-      "published_timestamp": 1784435649,
-      "like_count": 16795,
-      "comment_count": 4143,
-      "has_author_interaction": true,
-      "engagement_share": 49.9
     }
   ],
   "modules": [
