@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T11:53:45",
+  "generated_at": "2026-07-25T15:35:46",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 48,
-    "total_likes": 752227,
-    "total_comments": 152792,
-    "active_monitors": 4,
+    "total_likes": 755976,
+    "total_comments": 152791,
+    "active_monitors": 3,
     "interaction_video_count": 18,
     "interaction_rate": 37.5,
     "author_reply_count": 28,
@@ -28,10 +28,10 @@
       "description": "长鑫上市对市场流动性影响有限，市场已提前消化利空，负面因素下周将消化。科技股处于震荡筑底阶段，下周可能二次探底。",
       "published_at": "2026-07-25 09:42:20",
       "published_timestamp": 1784943740,
-      "like_count": 7382,
-      "comment_count": 2,
+      "like_count": 11131,
+      "comment_count": 1,
       "has_author_interaction": true,
-      "engagement_share": 24.3
+      "engagement_share": 36.7
     },
     {
       "video_id": "7665990270068099045",

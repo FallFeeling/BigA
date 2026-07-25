@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T11:53:45",
+  "generated_at": "2026-07-25T15:35:46",
   "author": {
     "name": "模型先生",
     "sec_uid": "MS4wLjABAAAAK713M9d8PGNb_WiMYf7yKhOI5y60H4uELJK2guDjJT0"
@@ -1217,8 +1217,8 @@
       "description_source": "chapter_abstract",
       "published_at": "2026-07-25 09:42:20",
       "published_timestamp": 1784943740,
-      "like_count": 7382,
-      "comment_count": 2,
+      "like_count": 11131,
+      "comment_count": 1,
       "duration_ms": 69500,
       "monitor_status": "active",
       "monitor_ends_at": "2026-07-27T09:42:20",
@@ -15928,7 +15928,7 @@
       "like_count": 24453,
       "comment_count": 2,
       "duration_ms": 103701,
-      "monitor_status": "active",
+      "monitor_status": "completed",
       "monitor_ends_at": "2026-07-25T15:29:20",
       "is_deleted": false,
       "deleted_at": "",
