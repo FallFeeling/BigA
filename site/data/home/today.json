@@ -1,18 +1,28 @@
 {
-  "generated_at": "2026-07-25T15:35:46",
+  "generated_at": "2026-07-25T18:57:27",
   "source": "模型先生公开视频快照",
   "metrics": {
-    "video_count": 48,
-    "total_likes": 755976,
-    "total_comments": 152791,
-    "active_monitors": 3,
+    "video_count": 49,
+    "total_likes": 757946,
+    "total_comments": 152949,
+    "active_monitors": 4,
     "interaction_video_count": 18,
-    "interaction_rate": 37.5,
+    "interaction_rate": 36.7,
     "author_reply_count": 28,
     "transcribed_video_count": 23,
     "comment_enriched_video_count": 23
   },
   "recent_videos": [
+    {
+      "video_id": "7666415449429705659",
+      "description": "该视频未填写文案",
+      "published_at": "2026-07-25 18:47:24",
+      "published_timestamp": 1784976444,
+      "like_count": 649,
+      "comment_count": 158,
+      "has_author_interaction": false,
+      "engagement_share": 2.7
+    },
     {
       "video_id": "7666299795695599217",
       "description": "该视频未填写文案",
@@ -28,10 +38,10 @@
       "description": "长鑫上市对市场流动性影响有限，市场已提前消化利空，负面因素下周将消化。科技股处于震荡筑底阶段，下周可能二次探底。",
       "published_at": "2026-07-25 09:42:20",
       "published_timestamp": 1784943740,
-      "like_count": 11131,
+      "like_count": 12452,
       "comment_count": 1,
       "has_author_interaction": true,
-      "engagement_share": 36.7
+      "engagement_share": 41.0
     },
     {
       "video_id": "7665990270068099045",
@@ -82,16 +92,6 @@
       "comment_count": 6361,
       "has_author_interaction": true,
       "engagement_share": 100.0
-    },
-    {
-      "video_id": "7664588897192130021",
-      "description": "科技股行情极端，类似2015年7月和2024年2月，可能导致流动性危机。杠杆资金在这种行情中受伤最大，一次回撤可能打穿底线。市场中最好的方法是能在各种极端行情中存活的方法，而非某个阶段盈利最多的方法。",
-      "published_at": "2026-07-20 20:39:27",
-      "published_timestamp": 1784551167,
-      "like_count": 16365,
-      "comment_count": 1,
-      "has_author_interaction": true,
-      "engagement_share": 53.9
     }
   ],
   "modules": [
