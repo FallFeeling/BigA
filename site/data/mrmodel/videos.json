@@ -1,17 +1,69 @@
 {
-  "generated_at": "2026-07-25T18:57:27",
+  "generated_at": "2026-07-26T10:25:26",
   "author": {
     "name": "模型先生",
     "sec_uid": "MS4wLjABAAAAK713M9d8PGNb_WiMYf7yKhOI5y60H4uELJK2guDjJT0"
   },
   "scan_note": "新视频监控 48 小时；前 20 条评论持续更新；博主互动永久保留。",
-  "video_count": 49,
+  "video_count": 51,
   "interaction_video_count": 18,
   "transcribed_video_count": 23,
   "comment_enriched_video_count": 23,
   "videos": [
     {
       "order": 1,
+      "video_id": "7666656007661215217",
+      "url": "https://www.douyin.com/video/7666656007661215217",
+      "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/owlKwZDBNIqPFNe7dofB9kyvwljUbWAtAEEMFE~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2100391200&x-signature=0BBpwOGkpxZvW3eErak0UB40Uz0%3D",
+      "description": "投资者应关注卖点，避免盲目抄作业。以赛力斯、科技股和商业航天为例，说明在不同情况下应如何把握卖点。卖点的把握关键在于形态，这是技术分析的重要部分。",
+      "description_source": "chapter_abstract",
+      "published_at": "2026-07-26 10:20:54",
+      "published_timestamp": 1785032454,
+      "like_count": 174,
+      "comment_count": 36,
+      "duration_ms": 86867,
+      "monitor_status": "active",
+      "monitor_ends_at": "2026-07-28T10:20:54",
+      "is_deleted": false,
+      "deleted_at": "",
+      "interaction_threads": [],
+      "has_author_interaction": false,
+      "scanned_top_comment_count": 0,
+      "transcript_status": "pending",
+      "transcript": null,
+      "transcript_error": "",
+      "comments_status": "not_processed",
+      "comments": [],
+      "comment_reply_count": 0
+    },
+    {
+      "order": 2,
+      "video_id": "7666640004190723577",
+      "url": "https://www.douyin.com/video/7666640004190723577",
+      "cover": "https://p9-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ogRYHBNgqJE3itVlBeFEwBDpAZA9TZIIETf8oW~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2100387600&x-signature=j5nBRodWuN%2Fpoj68bf1L4v0lsxE%3D",
+      "description": "该视频未填写文案",
+      "description_source": "",
+      "published_at": "2026-07-26 09:18:47",
+      "published_timestamp": 1785028727,
+      "like_count": 329,
+      "comment_count": 62,
+      "duration_ms": 58701,
+      "monitor_status": "active",
+      "monitor_ends_at": "2026-07-28T09:18:47",
+      "is_deleted": false,
+      "deleted_at": "",
+      "interaction_threads": [],
+      "has_author_interaction": false,
+      "scanned_top_comment_count": 0,
+      "transcript_status": "pending",
+      "transcript": null,
+      "transcript_error": "",
+      "comments_status": "not_processed",
+      "comments": [],
+      "comment_reply_count": 0
+    },
+    {
+      "order": 3,
       "video_id": "7666415449429705659",
       "url": "https://www.douyin.com/video/7666415449429705659",
       "cover": "https://p9-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o89C2JeIegyHUdcQ5gDh7vA7eYQZLKBYGybSKJ~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2100333600&x-signature=eGEeGoj8D6VhwSyGxTAtniXiou0%3D",
@@ -37,7 +89,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 2,
+      "order": 4,
       "video_id": "7666299795695599217",
       "url": "https://www.douyin.com/video/7666299795695599217",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oAxGqnmkt8ArBIpmwuvAaKuAPiM5GiBEtZQ8w~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2100308400&x-signature=QZNEYXXz6ddk0baava%2BNbgfSYF0%3D",
@@ -1235,7 +1287,7 @@
       "comment_reply_count": 47
     },
     {
-      "order": 3,
+      "order": 5,
       "video_id": "7666274987724804517",
       "url": "https://www.douyin.com/video/7666274987724804517",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQBaDBBP0HUQubIEBBiiVXkamdI1PbmACAM5F~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2100301200&x-signature=rV5jniah0w6tj2DVIM%2BzrHosj%2B0%3D",
@@ -1243,7 +1295,7 @@
       "description_source": "chapter_abstract",
       "published_at": "2026-07-25 09:42:20",
       "published_timestamp": 1784943740,
-      "like_count": 12452,
+      "like_count": 13925,
       "comment_count": 1,
       "duration_ms": 69500,
       "monitor_status": "active",
@@ -3709,7 +3761,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 4,
+      "order": 6,
       "video_id": "7665990270068099045",
       "url": "https://www.douyin.com/video/7665990270068099045",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUjTHGtA9IaAYoify9EB4wBqlnOiiEexBwGFEY~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2100236400&x-signature=CrPjzKURhK7WamqDqh1u1fa3hJ0%3D",
@@ -15943,7 +15995,7 @@
       "comment_reply_count": 193
     },
     {
-      "order": 5,
+      "order": 7,
       "video_id": "7665622240553943793",
       "url": "https://www.douyin.com/video/7665622240553943793",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oo9TOE59A9kQGBZqYceFEK5YIC1fSqfD7wDhAM~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2100150000&x-signature=uur9Jn%2Fl7q0tVDJVPqnWJGdqEGs%3D",
@@ -16046,7 +16098,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 6,
+      "order": 8,
       "video_id": "7665276074565128869",
       "url": "https://www.douyin.com/video/7665276074565128869",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okEDtjLgVIGNfGCA9obAeEIepBQq2sDTcDfhDG~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2100070800&x-signature=tdG4hptu5PKoMsYVP7G6id1uezs%3D",
@@ -18017,7 +18069,7 @@
       "comment_reply_count": 97
     },
     {
-      "order": 7,
+      "order": 9,
       "video_id": "7665257047643399354",
       "url": "https://www.douyin.com/video/7665257047643399354",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oU7IwEeA9aUEqAdfgt4YFHqG2IqDABFhnjxEws~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2100063600&x-signature=8PuwAKrdk5mmYzpIx5ZBChEly44%3D",
@@ -22356,7 +22408,7 @@
       "comment_reply_count": 240
     },
     {
-      "order": 8,
+      "order": 10,
       "video_id": "7664884377357138682",
       "url": "https://www.douyin.com/video/7664884377357138682",
       "cover": "https://p9-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okI8fq3AZByctw9d32QA6FEEOIDRDXDvafSx7o~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099977200&x-signature=VY0HNsGh%2Fm2N%2Bur2TKnUUwEhN%2Fw%3D",
@@ -36016,7 +36068,7 @@
       "comment_reply_count": 505
     },
     {
-      "order": 9,
+      "order": 11,
       "video_id": "7664588897192130021",
       "url": "https://www.douyin.com/video/7664588897192130021",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oASBCQ4TezUAs62FeFQzCXvB7JvMFg38PI8aeJ~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099908800&x-signature=SkV6C7pTjbVTrBuhExdhTE7qQJU%3D",
@@ -39683,7 +39735,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 10,
+      "order": 12,
       "video_id": "7664503135667813221",
       "url": "https://www.douyin.com/video/7664503135667813221",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4RyPBR31BERzNudC6iiwRBeALAex3PIE2vNeu~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099890800&x-signature=gd5%2BxKiOInEeK6vk%2B7uEaoBk47o%3D",
@@ -39870,7 +39922,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 11,
+      "order": 13,
       "video_id": "7664145660534596785",
       "url": "https://www.douyin.com/video/7664145660534596785",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ooauGekdBITOQ7BFfCUgLDM5Ie7QARNoqJ2Cpx~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099808000&x-signature=NpsEsil8jr5JbH%2FcWPLFbccdWGw%3D",
@@ -42900,7 +42952,7 @@
       "comment_reply_count": 57
     },
     {
-      "order": 12,
+      "order": 14,
       "video_id": "7664092754867746170",
       "url": "https://www.douyin.com/video/7664092754867746170",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/owOIwiyBenZE1AUfcoZL1i87Ya2BACiae8CE80~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099793600&x-signature=DBovhKb9kWYZRoxP4PzpC1lQOrU%3D",
@@ -47250,7 +47302,7 @@
       "comment_reply_count": 173
     },
     {
-      "order": 13,
+      "order": 15,
       "video_id": "7663705254588501241",
       "url": "https://www.douyin.com/video/7663705254588501241",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ocVaZkwLfAEICm5SBBe1p1Bk8iEniAgTmX4IZy~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099703600&x-signature=gXagTvGFASnBcmS6%2FvJ70Evl4t0%3D",
@@ -59490,7 +59542,7 @@
       "comment_reply_count": 400
     },
     {
-      "order": 14,
+      "order": 16,
       "video_id": "7663671898644038833",
       "url": "https://www.douyin.com/video/7663671898644038833",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIaC87depazULJAeEnPw71fGgIXB8yA7ZQt6I3~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099696400&x-signature=0iek0%2FBLEb%2FMQledCzXfPEVKyPg%3D",
@@ -65827,7 +65879,7 @@
       "comment_reply_count": 72
     },
     {
-      "order": 15,
+      "order": 17,
       "video_id": "7663400486263099377",
       "url": "https://www.douyin.com/video/7663400486263099377",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4tiS3EiEu0AnOWBUZNBfEc93eAiBKdw0HoqIZ~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099631600&x-signature=rhrmOHvGjJvKiawh5WW%2BD4gM37Q%3D",
@@ -66340,7 +66392,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 16,
+      "order": 18,
       "video_id": "7663286234136074931",
       "url": "https://www.douyin.com/video/7663286234136074931",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oE9aYwBAEEexp5UAXdqAZDjBWIQnDBGfgAhFt9~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099606400&x-signature=IxcA%2FkQ0puuQY%2BOT6J3X5%2F%2BfAhk%3D",
@@ -66459,7 +66511,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 17,
+      "order": 19,
       "video_id": "7661997109886056346",
       "url": "https://www.douyin.com/video/7661997109886056346",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o8ccGWM57BBbIgeDwUQQTDCA4FhAcgeeqU84CF~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099307600&x-signature=3bXDTcEJsJaGuqxLJBpkfSjb7Nc%3D",
@@ -66883,7 +66935,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 18,
+      "order": 20,
       "video_id": "7661906480098216049",
       "url": "https://www.douyin.com/video/7661906480098216049",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQkOIMU1wiBVjZUXNSanvw1PtlPBAiiEVPhBA~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099286000&x-signature=h9mZYKmQRHmMyR%2F53MKER%2FYV3nI%3D",
@@ -67373,7 +67425,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 19,
+      "order": 21,
       "video_id": "7661468847606672458",
       "url": "https://www.douyin.com/video/7661468847606672458",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oAKfYiCPAVReOB87IxAAmPwFBjiAK1IDgBBTEl~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099181600&x-signature=99rddNSXJMCy3FwaVnsnUzm997g%3D",
@@ -72899,7 +72951,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 20,
+      "order": 22,
       "video_id": "7661149563777223611",
       "url": "https://www.douyin.com/video/7661149563777223611",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okOB1iLokIGQNQCA3uigeeIsUjQf7u0J8Rd7vC~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=h1AGtesBnj%2BYJMwAwE16KRDB14Q%3D",
@@ -75089,7 +75141,7 @@
       "comment_reply_count": 33
     },
     {
-      "order": 21,
+      "order": 23,
       "video_id": "7661092248272444273",
       "url": "https://www.douyin.com/video/7661092248272444273",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o0sPIYF5eWeISxgRECDAQrUi99qwqCNAUaE3fb~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=iXCEwpn6WQ660FZt0odfMP1qW0o%3D",
@@ -77552,7 +77604,7 @@
       "comment_reply_count": 129
     },
     {
-      "order": 22,
+      "order": 24,
       "video_id": "7661035253272059057",
       "url": "https://www.douyin.com/video/7661035253272059057",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIFIm2ofQUoB8NoC2FMGeJM70RALE4ugnafUgd~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=vZWaov5snScr87sCe9oiKqh5cOw%3D",
@@ -77996,7 +78048,7 @@
       "comment_reply_count": 2
     },
     {
-      "order": 23,
+      "order": 25,
       "video_id": "7660831986836327865",
       "url": "https://www.douyin.com/video/7660831986836327865",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/owPfLF4JAhy9kDfcI6vEAQpw5wEAUq7ewBCQEB~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=OILea0gqRtvlHZeiu2vB%2Fxqm2wk%3D",
@@ -79786,7 +79838,7 @@
       "comment_reply_count": 86
     },
     {
-      "order": 24,
+      "order": 26,
       "video_id": "7660684518856710577",
       "url": "https://www.douyin.com/video/7660684518856710577",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEMKNQrKeAvQDWhDO4e8K6feO3sYF2A2BphNAT~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=VAqfJdWOoLFQmBP7NQEJalC5K7E%3D",
@@ -81903,7 +81955,7 @@
       "comment_reply_count": 106
     },
     {
-      "order": 25,
+      "order": 27,
       "video_id": "7660651435239307643",
       "url": "https://www.douyin.com/video/7660651435239307643",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okNAEJAF4Im3C7DgiQBokOQDRiMfDfdC8epUqg~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=FYIqRRbj4mS5ADbTo%2B%2F51NmcuuU%3D",
@@ -81929,7 +81981,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 26,
+      "order": 28,
       "video_id": "7660422914164403313",
       "url": "https://www.douyin.com/video/7660422914164403313",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ospDHfVeRPcULJAGEQge7S7GgILBO3BihHn0IN~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=aw7CPjFS%2BEM40SUWD51uzq3YGVg%3D",
@@ -81955,7 +82007,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 27,
+      "order": 29,
       "video_id": "7660080767132878193",
       "url": "https://www.douyin.com/video/7660080767132878193",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIMgikaEB6ArS6O9ktXdPBiIA9wP5UcEL4t7h~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=clyFZN35tbEstFwJ2ai9hUG5%2BM0%3D",
@@ -81981,7 +82033,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 28,
+      "order": 30,
       "video_id": "7659728886310452709",
       "url": "https://www.douyin.com/video/7659728886310452709",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o0vZNjgmeAQzAWifDG7UUaDUpIJOLBnTFafgCb~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=NOiQCtJPtiMw9dNi8Uiob7aJd9E%3D",
@@ -83122,7 +83174,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 29,
+      "order": 31,
       "video_id": "7659686503471732219",
       "url": "https://www.douyin.com/video/7659686503471732219",
       "cover": "https://p9-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oknFJAqeOEsQAr2Ei1lwpYB8idfAABE6BI5MPh~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=lzHsVKwvvkP1pnA1hnYjMBD1HPk%3D",
@@ -88535,7 +88587,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 30,
+      "order": 32,
       "video_id": "7659342661496689786",
       "url": "https://www.douyin.com/video/7659342661496689786",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oULXwLI2diphz5MpBOpcVtIkE8iASPzxBaAPP~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=1JlFNHgNi5HhUWwJ12XYJZg3xo8%3D",
@@ -88561,7 +88613,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 31,
+      "order": 33,
       "video_id": "7659310835387912689",
       "url": "https://www.douyin.com/video/7659310835387912689",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oYIWQCEA9rWSAfDqmFCifqLAWazAaEgwn51TB5~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=LKpQ6%2Fwpha0BLu4c8aIgLsG5bqk%3D",
@@ -89685,7 +89737,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 32,
+      "order": 34,
       "video_id": "7658926591523121905",
       "url": "https://www.douyin.com/video/7658926591523121905",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQfBAkCSsF2CADOTlUmb71gdkEItfJBDQT8ke0~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=4xnh0PZ9SP9gNjv6Qkiu4WSmTLw%3D",
@@ -89711,7 +89763,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 33,
+      "order": 35,
       "video_id": "7658918423364332145",
       "url": "https://www.douyin.com/video/7658918423364332145",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o8CBH1FkXED1v9BAGDNgf3EwUJIq7TfJOMbf8D~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=96Jjlw9oZIAdWjsVEpi%2FvzvSLZk%3D",
@@ -89737,7 +89789,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 34,
+      "order": 36,
       "video_id": "7658242203194191227",
       "url": "https://www.douyin.com/video/7658242203194191227",
       "cover": "https://p9-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okATEAr1niqBIeQIKBHvBiiIhB5WTeE7rsdCzw~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=tpoBaLo2efFIT82ShVrTWaRwrpA%3D",
@@ -89763,7 +89815,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 35,
+      "order": 37,
       "video_id": "7657828396693771633",
       "url": "https://www.douyin.com/video/7657828396693771633",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okPIwEfB9JhEqAEfGivRJhllsd9DABFUnipExn~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=2q6jodNAeH%2FPm%2BJKYMEOQrWiuIc%3D",
@@ -90856,7 +90908,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 36,
+      "order": 38,
       "video_id": "7657521936864940281",
       "url": "https://www.douyin.com/video/7657521936864940281",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oYlvyJuEPNIqRk6qAACQ9eGFsfCZ0DAnEDWBwV~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=VoXEnbYOYzq%2BSe7Fc3cLLuCreLU%3D",
@@ -90882,7 +90934,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 37,
+      "order": 39,
       "video_id": "7657342471748572645",
       "url": "https://www.douyin.com/video/7657342471748572645",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ocGYEZFiDTnMNKuEEADAIhRe9GqwWBNA1FEqfn~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=EN3mUVDdcc6cBnvkCC6qnN%2BNLFI%3D",
@@ -93479,7 +93531,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 38,
+      "order": 40,
       "video_id": "7657117121080734065",
       "url": "https://www.douyin.com/video/7657117121080734065",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIVEt3DNFyZoQiDZk9tKABOAJfBEInBfwq4HKE~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=faefYHlh3D2OR27vgQYvlx4NP0c%3D",
@@ -93505,7 +93557,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 39,
+      "order": 41,
       "video_id": "7657096092488188538",
       "url": "https://www.douyin.com/video/7657096092488188538",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUpjEEAFBIlli9DwAZAQHhQ31y8EDfeBnKJqGG~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=5PJdzV6cL6scworuegc%2FGB9olbI%3D",
@@ -93531,7 +93583,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 40,
+      "order": 42,
       "video_id": "7657086037210229369",
       "url": "https://www.douyin.com/video/7657086037210229369",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMcxMIk5PtIOABibisGEbDpNMPAaBZvIy74Hp~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=vjmNlhx2j3V9d4bh6fLrYRCIoBA%3D",
@@ -93557,7 +93609,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 41,
+      "order": 43,
       "video_id": "7656730954166162545",
       "url": "https://www.douyin.com/video/7656730954166162545",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMQAf9FQNEDx3qBAwQKwfJEJqCIx9imEnzDiLB~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=W28zZoUH1Knk7TkK%2BCzm09wQgJ4%3D",
@@ -93583,7 +93635,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 42,
+      "order": 44,
       "video_id": "7656596513762330097",
       "url": "https://www.douyin.com/video/7656596513762330097",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/ooODgkdAS2LGu2caCpE7fjePBSJLDYIUgIQQfd~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=YOMITRPAza8zu9x6KQTw6gCCi98%3D",
@@ -93609,7 +93661,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 43,
+      "order": 45,
       "video_id": "7656438075560548339",
       "url": "https://www.douyin.com/video/7656438075560548339",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o0IJ1AIwDBB5gkAqEylAB9HBtDideINiNNgLfw~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=C6kvLW66kS98Fph1tiT%2FFdUaM44%3D",
@@ -93635,7 +93687,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 44,
+      "order": 46,
       "video_id": "7655914829001410225",
       "url": "https://www.douyin.com/video/7655914829001410225",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUfPUTueXhY03fNAeQfA4vgBj9AGaxzMBnfiFa~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=8j4oT0pISGzm%2BqYr9DJ9cjcGju4%3D",
@@ -93661,7 +93713,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 45,
+      "order": 47,
       "video_id": "7655600433772651889",
       "url": "https://www.douyin.com/video/7655600433772651889",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4SeHGAIbv2TCQgI1GLoAKZGA2cOWT1AeFfDeR~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=rh3W9zXmQorxrccx4caJi0XqFIU%3D",
@@ -93687,7 +93739,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 46,
+      "order": 48,
       "video_id": "7655460787654329009",
       "url": "https://www.douyin.com/video/7655460787654329009",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o8p7tqwPfAIeDjJ5CD9qOgBgUEEnFAsYpaYQTq~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=zHDCqBZ9W00Xlnj1e%2FAa%2BphCqHY%3D",
@@ -95948,7 +96000,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 47,
+      "order": 49,
       "video_id": "7654754180514578289",
       "url": "https://www.douyin.com/video/7654754180514578289",
       "cover": "https://p9-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4yMEeSakBAlJ1L9PZi0Ee1BMAowyCCHIxfB7i~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=ytVQxR0fXAfWmufVzFF4AyTeGJA%3D",
@@ -95974,7 +96026,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 48,
+      "order": 50,
       "video_id": "7654166622005303025",
       "url": "https://www.douyin.com/video/7654166622005303025",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4R54IzQGhxeDFHfAIeeA3COqLqoJoTDo8629y~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=sntTOUDaFSpYl3C%2FGUpIGruDD%2FE%3D",
@@ -96000,7 +96052,7 @@
       "comment_reply_count": 0
     },
     {
-      "order": 49,
+      "order": 51,
       "video_id": "7653729490837025787",
       "url": "https://www.douyin.com/video/7653729490837025787",
       "cover": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/o4BE3mvCBPSe1iuAYzxBAYo6iGIEgEwweLgNtj~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_PUBLISH&sc=cover&se=true&sh=323_430&x-expires=2099113200&x-signature=YVzXJRvnRnCVkTLD%2F2GEuWszy%2BY%3D",
