@@ -1,57 +1,77 @@
 {
-  "generated_at": "2026-07-26T13:32:16",
+  "generated_at": "2026-07-27T17:57:13",
   "source": "模型先生公开视频快照",
   "metrics": {
-    "video_count": 52,
-    "total_likes": 760046,
-    "total_comments": 153055,
-    "active_monitors": 7,
-    "interaction_video_count": 18,
-    "interaction_rate": 34.6,
-    "author_reply_count": 28,
-    "transcribed_video_count": 23,
-    "comment_enriched_video_count": 23
+    "video_count": 54,
+    "total_likes": 834705,
+    "total_comments": 159739,
+    "active_monitors": 6,
+    "interaction_video_count": 20,
+    "interaction_rate": 37.0,
+    "author_reply_count": 31,
+    "transcribed_video_count": 29,
+    "comment_enriched_video_count": 27
   },
   "recent_videos": [
+    {
+      "video_id": "7667101458562946233",
+      "description": "该视频未填写文案",
+      "published_at": "2026-07-27 15:09:28",
+      "published_timestamp": 1785136168,
+      "like_count": 7251,
+      "comment_count": 2054,
+      "has_author_interaction": true,
+      "engagement_share": 45.8
+    },
+    {
+      "video_id": "7666713681464078321",
+      "description": "该视频未填写文案",
+      "published_at": "2026-07-26 14:04:42",
+      "published_timestamp": 1785045882,
+      "like_count": 11951,
+      "comment_count": 122,
+      "has_author_interaction": false,
+      "engagement_share": 59.4
+    },
     {
       "video_id": "7666704768191241445",
       "description": "承诺与判断的区别，强调自己的观点只是判断，市场走势不由自己决定。建议大家阅读辩证法书籍，学会从对立中把握统一，从统一中把握对立，以正确理解和对待他的观点。",
       "published_at": "2026-07-26 13:30:06",
       "published_timestamp": 1785043806,
-      "like_count": 22,
-      "comment_count": 8,
+      "like_count": 15628,
+      "comment_count": 1675,
       "has_author_interaction": false,
-      "engagement_share": 0.1
+      "engagement_share": 85.1
     },
     {
       "video_id": "7666656007661215217",
       "description": "投资者应关注卖点，避免盲目抄作业。以赛力斯、科技股和商业航天为例，说明在不同情况下应如何把握卖点。卖点的把握关键在于形态，这是技术分析的重要部分。",
       "published_at": "2026-07-26 10:20:54",
       "published_timestamp": 1785032454,
-      "like_count": 174,
-      "comment_count": 36,
-      "has_author_interaction": false,
-      "engagement_share": 0.9
+      "like_count": 17397,
+      "comment_count": 2938,
+      "has_author_interaction": true,
+      "engagement_share": 100.0
     },
     {
       "video_id": "7666640004190723577",
       "description": "该视频未填写文案",
       "published_at": "2026-07-26 09:18:47",
       "published_timestamp": 1785028727,
-      "like_count": 329,
-      "comment_count": 62,
+      "like_count": 10058,
+      "comment_count": 1,
       "has_author_interaction": false,
-      "engagement_share": 1.6
+      "engagement_share": 49.5
     },
     {
       "video_id": "7666415449429705659",
-      "description": "该视频未填写文案",
+      "description": "科技股对市场的带动性不如预期，甚至出现虹吸效应。相比之下，金融股对市场的带动作用更明显，可关注券商板块，但并非市场主流。",
       "published_at": "2026-07-25 18:47:24",
       "published_timestamp": 1784976444,
-      "like_count": 649,
+      "like_count": 13477,
       "comment_count": 158,
       "has_author_interaction": false,
-      "engagement_share": 3.3
+      "engagement_share": 67.1
     },
     {
       "video_id": "7666299795695599217",
@@ -61,37 +81,17 @@
       "like_count": 2537,
       "comment_count": 706,
       "has_author_interaction": false,
-      "engagement_share": 13.3
+      "engagement_share": 15.9
     },
     {
       "video_id": "7666274987724804517",
       "description": "长鑫上市对市场流动性影响有限，市场已提前消化利空，负面因素下周将消化。科技股处于震荡筑底阶段，下周可能二次探底。",
       "published_at": "2026-07-25 09:42:20",
       "published_timestamp": 1784943740,
-      "like_count": 14027,
+      "like_count": 14098,
       "comment_count": 1,
       "has_author_interaction": true,
-      "engagement_share": 57.4
-    },
-    {
-      "video_id": "7665990270068099045",
-      "description": "该视频未填写文案",
-      "published_at": "2026-07-24 15:17:29",
-      "published_timestamp": 1784877449,
-      "like_count": 16690,
-      "comment_count": 4703,
-      "has_author_interaction": true,
-      "engagement_share": 87.5
-    },
-    {
-      "video_id": "7665622240553943793",
-      "description": "科技股在低位震荡，投资者在下跌后逐渐感受到痛苦，而单日大阳带来的希望又让人绝望，导致筹码交换。",
-      "published_at": "2026-07-23 15:29:20",
-      "published_timestamp": 1784791760,
-      "like_count": 24453,
-      "comment_count": 2,
-      "has_author_interaction": false,
-      "engagement_share": 100.0
+      "engagement_share": 69.3
     }
   ],
   "modules": [
