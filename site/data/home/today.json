@@ -1,54 +1,64 @@
 {
-  "generated_at": "2026-07-28T06:23:43",
+  "generated_at": "2026-07-28T09:25:43",
   "source": "模型先生公开视频快照",
   "metrics": {
-    "video_count": 56,
-    "total_likes": 863750,
-    "total_comments": 162724,
+    "video_count": 57,
+    "total_likes": 869135,
+    "total_comments": 163655,
     "active_monitors": 7,
     "interaction_video_count": 22,
-    "interaction_rate": 39.3,
+    "interaction_rate": 38.6,
     "author_reply_count": 33,
-    "transcribed_video_count": 31,
-    "comment_enriched_video_count": 29
+    "transcribed_video_count": 32,
+    "comment_enriched_video_count": 30
   },
   "recent_videos": [
+    {
+      "video_id": "7667364366095098361",
+      "description": "该视频未填写文案",
+      "published_at": "2026-07-28 08:09:41",
+      "published_timestamp": 1785197381,
+      "like_count": 2608,
+      "comment_count": 729,
+      "has_author_interaction": false,
+      "engagement_share": 16.1
+    },
     {
       "video_id": "7667184373570342779",
       "description": "该视频未填写文案",
       "published_at": "2026-07-27 20:31:13",
       "published_timestamp": 1785155473,
-      "like_count": 10974,
-      "comment_count": 2941,
+      "like_count": 12350,
+      "comment_count": 3127,
       "has_author_interaction": true,
-      "engagement_share": 67.5
+      "engagement_share": 74.7
     },
     {
       "video_id": "7667178223759867249",
       "description": "职业短线客可在指数下跌尾声抛开指数做个股，选择抗跌的强势股。具体选股需自己把握，可类比3月下旬的商业航天。",
       "published_at": "2026-07-27 20:07:22",
       "published_timestamp": 1785154042,
-      "like_count": 10891,
-      "comment_count": 2047,
+      "like_count": 11899,
+      "comment_count": 2056,
       "has_author_interaction": true,
-      "engagement_share": 62.7
+      "engagement_share": 67.4
     },
     {
       "video_id": "7667101458562946233",
       "description": "该视频未填写文案",
       "published_at": "2026-07-27 15:09:28",
       "published_timestamp": 1785136168,
-      "like_count": 13445,
+      "like_count": 13654,
       "comment_count": 6,
       "has_author_interaction": true,
-      "engagement_share": 65.2
+      "engagement_share": 66.0
     },
     {
       "video_id": "7666713681464078321",
       "description": "该视频未填写文案",
       "published_at": "2026-07-26 14:04:42",
       "published_timestamp": 1785045882,
-      "like_count": 12296,
+      "like_count": 12345,
       "comment_count": 122,
       "has_author_interaction": false,
       "engagement_share": 60.2
@@ -58,18 +68,18 @@
       "description": "承诺与判断的区别，强调自己的观点只是判断，市场走势不由自己决定。建议大家阅读辩证法书籍，学会从对立中把握统一，从统一中把握对立，以正确理解和对待他的观点。",
       "published_at": "2026-07-26 13:30:06",
       "published_timestamp": 1785043806,
-      "like_count": 15894,
-      "comment_count": 1701,
+      "like_count": 15945,
+      "comment_count": 1705,
       "has_author_interaction": false,
-      "engagement_share": 85.3
+      "engagement_share": 85.2
     },
     {
       "video_id": "7666656007661215217",
       "description": "投资者应关注卖点，避免盲目抄作业。以赛力斯、科技股和商业航天为例，说明在不同情况下应如何把握卖点。卖点的把握关键在于形态，这是技术分析的重要部分。",
       "published_at": "2026-07-26 10:20:54",
       "published_timestamp": 1785032454,
-      "like_count": 17671,
-      "comment_count": 2957,
+      "like_count": 17748,
+      "comment_count": 2960,
       "has_author_interaction": true,
       "engagement_share": 100.0
     },
@@ -78,20 +88,10 @@
       "description": "该视频未填写文案",
       "published_at": "2026-07-26 09:18:47",
       "published_timestamp": 1785028727,
-      "like_count": 10142,
+      "like_count": 10149,
       "comment_count": 1,
       "has_author_interaction": false,
-      "engagement_share": 49.2
-    },
-    {
-      "video_id": "7666415449429705659",
-      "description": "科技股对市场的带动性不如预期，甚至出现虹吸效应。相比之下，金融股对市场的带动作用更明显，可关注券商板块，但并非市场主流。",
-      "published_at": "2026-07-25 18:47:24",
-      "published_timestamp": 1784976444,
-      "like_count": 13494,
-      "comment_count": 158,
-      "has_author_interaction": false,
-      "engagement_share": 66.2
+      "engagement_share": 49.0
     }
   ],
   "modules": [
