@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T09:25:43",
+  "generated_at": "2026-07-28T12:42:51",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 57,
-    "total_likes": 869135,
-    "total_comments": 163655,
-    "active_monitors": 7,
+    "total_likes": 875028,
+    "total_comments": 163883,
+    "active_monitors": 5,
     "interaction_video_count": 22,
     "interaction_rate": 38.6,
     "author_reply_count": 33,
@@ -18,20 +18,20 @@
       "description": "该视频未填写文案",
       "published_at": "2026-07-28 08:09:41",
       "published_timestamp": 1785197381,
-      "like_count": 2608,
-      "comment_count": 729,
+      "like_count": 7675,
+      "comment_count": 870,
       "has_author_interaction": false,
-      "engagement_share": 16.1
+      "engagement_share": 41.3
     },
     {
       "video_id": "7667184373570342779",
       "description": "该视频未填写文案",
       "published_at": "2026-07-27 20:31:13",
       "published_timestamp": 1785155473,
-      "like_count": 12350,
-      "comment_count": 3127,
+      "like_count": 12991,
+      "comment_count": 3211,
       "has_author_interaction": true,
-      "engagement_share": 74.7
+      "engagement_share": 78.2
     },
     {
       "video_id": "7667178223759867249",
@@ -48,30 +48,30 @@
       "description": "该视频未填写文案",
       "published_at": "2026-07-27 15:09:28",
       "published_timestamp": 1785136168,
-      "like_count": 13654,
+      "like_count": 13784,
       "comment_count": 6,
       "has_author_interaction": true,
-      "engagement_share": 66.0
+      "engagement_share": 66.6
     },
     {
       "video_id": "7666713681464078321",
       "description": "该视频未填写文案",
       "published_at": "2026-07-26 14:04:42",
       "published_timestamp": 1785045882,
-      "like_count": 12345,
+      "like_count": 12375,
       "comment_count": 122,
       "has_author_interaction": false,
-      "engagement_share": 60.2
+      "engagement_share": 60.3
     },
     {
       "video_id": "7666704768191241445",
       "description": "承诺与判断的区别，强调自己的观点只是判断，市场走势不由自己决定。建议大家阅读辩证法书籍，学会从对立中把握统一，从统一中把握对立，以正确理解和对待他的观点。",
       "published_at": "2026-07-26 13:30:06",
       "published_timestamp": 1785043806,
-      "like_count": 15945,
-      "comment_count": 1705,
+      "like_count": 15970,
+      "comment_count": 1708,
       "has_author_interaction": false,
-      "engagement_share": 85.2
+      "engagement_share": 85.4
     },
     {
       "video_id": "7666656007661215217",
