@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T15:14:49",
+  "generated_at": "2026-07-29T20:33:02",
   "author": {
     "name": "模型先生",
     "sec_uid": "MS4wLjABAAAAK713M9d8PGNb_WiMYf7yKhOI5y60H4uELJK2guDjJT0"
@@ -1369,7 +1369,7 @@
       "like_count": 13410,
       "comment_count": 3380,
       "duration_ms": 55505,
-      "monitor_status": "active",
+      "monitor_status": "completed",
       "monitor_ends_at": "2026-07-29T20:31:13",
       "is_deleted": false,
       "deleted_at": "",
@@ -3543,7 +3543,7 @@
           ],
           "first_seen_at": "2026-07-27T21:05:41",
           "last_seen_at": "2026-07-28T14:35:22",
-          "tracking_status": "active"
+          "tracking_status": "frozen"
         },
         {
           "parent": {
@@ -3953,7 +3953,7 @@
           ],
           "first_seen_at": "2026-07-28T08:10:22",
           "last_seen_at": "2026-07-28T14:35:23",
-          "tracking_status": "active"
+          "tracking_status": "frozen"
         }
       ],
       "has_author_interaction": true,
