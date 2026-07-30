@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T20:33:02",
+  "generated_at": "2026-07-30T08:22:27",
   "source": "模型先生公开视频快照",
   "metrics": {
     "video_count": 57,
     "total_likes": 876692,
     "total_comments": 164052,
-    "active_monitors": 1,
+    "active_monitors": 0,
     "interaction_video_count": 22,
     "interaction_rate": 38.6,
     "author_reply_count": 33,
